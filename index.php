@@ -91,9 +91,9 @@
 						<div class="cta">
 							<h3 class="cta-ttl">#デイトナ50周年 の<br class="sp">投稿を見る</h3>
 							<div class="cta-row">
-								<a href="">Twitter</a>
-								<a href="">Instagram</a>
-								<a href="">Facebook</a>
+								<a href="https://twitter.com/search?q=%23%E3%83%87%E3%82%A4%E3%83%88%E3%83%8A50%E5%91%A8%E5%B9%B4&src=typed_query" target="_blank">Twitter</a>
+								<a href="https://www.instagram.com/explore/tags/%E3%83%87%E3%82%A4%E3%83%88%E3%83%8A50%E5%91%A8%E5%B9%B4/?hl=ja" target="_blank">Instagram</a>
+								<a href="https://www.facebook.com/hashtag/%E3%83%87%E3%82%A4%E3%83%88%E3%83%8A50%E5%91%A8%E5%B9%B4" target="_blank">Facebook</a>
 							</div>
 						</div>
 					</div>
