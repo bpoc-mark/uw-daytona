@@ -35,7 +35,7 @@
         }
       }
       .daytona-logo{
-        width: 414px;
+        width: 300px;
         position: absolute;
         top: 50%;
         left: 50%;
@@ -45,41 +45,35 @@
     }
   }
   .sect-2{
-    padding: 230px 0;
+    padding: 135px 0 140px;
     .container{
       .desc{
         font-weight: 700;
         font-size: 24px;
-        line-height: 60px;
-        letter-spacing: .1em;
+        line-height: 45px;
         text-align: center;
       }
     }
   }
   .sect-3{
     .wrapper{
-      padding: 143px 0 150px;
+      padding: 80px 0 100px;
       background-color: #E96B00;
       .container{
         .tll{
-          font-weight: 500;
+          font-weight: 900;
           text-align: center;
-          font-size: 80px;
+          font-size: 48px;
           color: #fff;
           line-height: 120px;
-          span{
-            @include Franklin_Gothic(800);
-            font-style: italic;
-          }
         }
         .desc{
           font-weight: 700;
           font-size: 24px;
           color: #fff;
           line-height: 48px;
-          letter-spacing: .2em;
           text-align: center;
-          margin: 44px 0 136px;
+          margin: 20px 0 72px;
         }
         .row{
           justify-content: space-between;
@@ -87,31 +81,28 @@
             position: relative;
             width: 23%;
             background-color: #fff;
-            padding: 15px 20px 25px;
+            padding: 15px 15px 25px;
             border-radius: 5px;
             &:not(:last-child){
               &::after{
                 content: "";
                 display: block;
-                border-width: 15px;
+                border-width: 13px;
                 border-color: transparent transparent transparent #fff;
                 border-style: solid;
                 position: absolute;
                 top: 50%;
-                right: -40px;
+                right: -34px;
                 transform: translate(0, -50%);
-                @include is-max(1100px){
-                  right: -37px;
-                }
                 @include is-max(1000px){
-                  right: -33px;
+                  right: -32px;
                 }
               }
             }
             .col-ttl{
               @include Franklin_Gothic(800);
               font-style: italic;
-              font-size: 32px;
+              font-size: 26px;
               color: #000;
             }
             .col-desc{
@@ -119,7 +110,7 @@
               font-size: 18px;
               color: #3B4043;
               line-height: 27px;
-              margin: 9px 0 0;
+              margin: 14px 0 0;
             }
           }
         }
@@ -129,7 +120,7 @@
           line-height: 24px;
           text-align: center;
           color: #fff;
-          margin: 34px 0 110px;
+          margin: 18px 0 75px;
         }
         .cta{
           max-width: 700px;
