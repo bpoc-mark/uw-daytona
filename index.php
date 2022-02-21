@@ -76,7 +76,7 @@
 							</div>
 							<div class="col">
 								<h3 class="col-ttl">STEP 04</h3>
-								<p class="col-desc">必ずハッシュタグ「#デイトナ50周年」をつけて投稿してください。</p>
+								<p class="col-desc">必ずハッシュタグ<span>「#デイトナ50周年」</span>をつけて投稿してください。</p>
 							</div>
 						</div>
 						<p class="desc2">※投稿の中からデイトナ50周年サイトに掲載させていただく場合がございます。</p>
