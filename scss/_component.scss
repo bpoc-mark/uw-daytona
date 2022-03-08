@@ -283,3 +283,70 @@ img {
     }
   }
 }
+
+
+/*==================================
+	PAGE HEADER
+==================================*/
+.p-head{  
+  height: 704px;
+  background-size: cover;
+  background-position: center center;
+  background-repeat: no-repeat;
+  position: relative;
+  @include sp{
+    height: 375px;
+  }
+  &--greetings{
+    background-image: url(/images/greetings/bg-img.jpg);
+    @include sp{
+      background-image: url(/images/greetings/sp/bg-img.jpg);
+    }
+  }
+  &::before{
+    content: "";
+    display: block;
+    height: 100%;
+    width: 43%;
+    background-color: rgba(34, 34, 34, 0.8);
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: 1;
+    @include sp{
+      width: 100%;
+    }
+  }
+  &--wrap{
+    max-width: 1100px;
+    padding: 0 50px;
+    height: 100%;
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    @include sp{
+      padding: 0;
+      justify-content: center;
+    }
+  }
+  &--content{
+    position: relative;
+    z-index: 2;
+    padding: 0 0 0 120px;
+    &--en{
+      @include Franklin_Gothic(800);
+      font-size: 28px;
+      font-style: italic;
+      color: #fff;
+      text-align: center;
+      margin: 0 0 3px;
+    } 
+    &--jp{
+      font-weight: 500;
+      font-size: 14px;
+      color: #fff;
+      text-align: center;
+    }
+  }
+}

@@ -1,0 +1,38 @@
+/*==================================
+  Greetings
+==================================*/
+#Greetings main {
+  margin: 60px 0 0;
+  .greetings-sect{
+    padding: 45px 0 50px;
+    .container{
+      .desc{
+        font-weight: 500;
+        font-size: 14px;
+        line-height: 28px;
+        text-align: left;
+      }
+      .corporation{
+        h3{
+          font-weight: 500;
+          font-size: 17px;
+          text-align: center;
+          margin: 50px 0 25px;
+        }
+        .row{
+          .col{
+            width: 100%;
+            text-align: center;
+            &:not(:last-child){
+              margin: 0 0 24px;
+            }
+            p{
+              font-weight: 500;
+              font-size: 14px;
+            }
+          }
+        }
+      }
+    }
+  }
+}
