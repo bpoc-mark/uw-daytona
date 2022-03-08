@@ -1,0 +1,224 @@
+/*==================================
+  Message
+==================================*/
+#Message main {
+  margin: 64px 0 0;
+  .message-sect{
+    padding: 150px 0;
+    .container{
+      .row{
+        .col{
+          width: 20%;
+          a{
+            display: block;
+            position: relative;
+            cursor: pointer;
+            &::before{
+              content: "";
+              display: block;
+              width: 100%;
+              height: 100%;
+              background-color: rgba(34, 34, 34, 0.7);
+              position: absolute;
+              inset: 0;
+              z-index: 1;
+              opacity: 0;
+              visibility: hidden;
+              transition: .3s ease;
+            }
+            &:hover{
+              &::before{
+                opacity: 1;
+                visibility: visible;
+              }
+              .content{
+                opacity: 1;
+                visibility: visible;
+              }
+            }
+            .content{
+              width: 100%;
+              height: 100%;
+              background-color: #222222;
+              position: absolute;
+              inset: 0;
+              z-index: 2;
+              transform: scale(.8, .8);
+              display: flex;
+              align-items: center;
+              justify-content: center;
+              flex-direction: column;
+              opacity: 0;
+              visibility: hidden;
+              transition: .3s ease;
+              transition-delay: .15s;
+              p{
+                color: #fff;
+                font-weight: 500;
+                font-size: 12px;
+                line-height: 16px;
+                text-align: center;
+                margin: 0 0 10px;
+              }
+              h3{
+                color: #fff;
+                font-weight: 500;
+                font-size: 20px;
+              }
+              span{
+                @include Franklin_Gothic(800);
+                font-size: 32px;
+                color: #999999;
+                font-style: italic;
+                position: absolute;
+                bottom: 8px;
+                right: 4px;
+              }
+            }
+          }
+        }
+      }
+      .modal{
+        position: fixed;
+        inset: 0;
+        z-index: 1002;
+        width: 100%;
+        height: 100vh;
+        opacity: 0;
+        visibility: hidden;
+        transition: .3s ease;
+        &--active{
+          opacity: 1;
+          visibility: visible;
+        }
+        &--dialog{
+          width: 100%;
+          height: 100%;
+          background-color: #fff;
+          .close{
+            width: 36px;
+            height: 36px;
+            position: absolute;
+            top: 20px;
+            right: 20px;
+            transform: rotate(45deg);
+            cursor: pointer;
+            &::after{
+              content: "";
+              display: flex;
+              width: 100%;
+              height: 2px;
+              background-color: #999999;
+              position: absolute;
+              top: 50%;
+              left: 0;
+              transform: translate(0, -50%);
+            }
+            &::before{
+              content: "";
+              display: flex;
+              width: 2px;
+              height: 100%;
+              background-color: #999999;
+              position: absolute;
+              top: 0;
+              left: 0;
+              right: 0;
+              margin: 0 auto;
+            }
+          }
+        }
+        &--content{
+          position: relative;
+          width: 100%;
+          height: 100%;
+          overflow: auto;
+          &--left{
+            width: 50%;
+            height: 100%;
+            background-size: cover;
+            background-position: center;
+            background-repeat: no-repeat;
+            position: fixed;
+            top: 0;
+            left: 0;
+            &--modal01{
+              background-image: url(/images/message/img-1.jpg);
+            }
+            &--modal02{
+              background-image: url(/images/message/img-2.jpg);
+            }
+            &--modal03{
+              background-image: url(/images/message/img-3.jpg);
+            }
+            &--modal04{
+              background-image: url(/images/message/img-4.jpg);
+            }
+            &--modal07{
+              background-image: url(/images/message/img-7.jpg);
+            }
+            &--modal09{
+              background-image: url(/images/message/img-9.jpg);
+            }
+            &--modal10{
+              background-image: url(/images/message/img-10.jpg);
+            }
+            &--modal11{
+              background-image: url(/images/message/img-11.jpg);
+            }
+            &--modal12{
+              background-image: url(/images/message/img-12.jpg);
+            }
+            &--modal13{
+              background-image: url(/images/message/img-13.jpg);
+            }
+          }
+          &--right{
+            width: 50%;
+            margin: 0 0 0 auto;
+            padding: 40px 50px 40px 40px;
+            .ttl{
+              position: relative;
+              border-bottom: 5px solid #E96B00;
+              padding: 0 0 15px;
+              p{
+                font-weight: 700;
+                font-size: 14px;
+                line-height: 21px;
+                margin: 0 0 8px;
+                padding: 0 130px 0 0;
+              }
+              h3{
+                font-weight: 700;
+                font-size: 22px;
+                padding: 0 130px 0 0;
+              }
+              span{
+                @include Franklin_Gothic(800);
+                font-size: 64px;
+                font-style: italic;
+                position: absolute;
+                top: -6px;
+                right: 10px;
+              }
+            }
+            p{
+              color: #3B4043;
+              line-height: 28px;
+              margin: 14px 0 0;
+            }
+            .row-img{
+              display: flex;
+              flex-wrap: wrap;
+              justify-content: space-between;
+              margin: 15px 0 0;
+              img{
+                width: 32%;
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}
