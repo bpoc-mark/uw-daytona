@@ -14,7 +14,14 @@ $(function () {
   $('#menu-toggle').click(function () {
     $('header').toggleClass('open');
     $(this).find('.line').toggleClass('show');
-    $('header nav').slideToggle();
+    // $('header nav').slideToggle();
+    $('html').toggleClass('no_move');
+  });
+
+  $('.nav .nav--overlay').click(function () {
+    $('header').toggleClass('open');
+    $('#menu-toggle').find('.line').toggleClass('show');
+    // $('header nav').slideToggle();
     $('html').toggleClass('no_move');
   });
 
