@@ -315,6 +315,18 @@ img {
       }
     }
   }
+  &--message{
+    background-image: url(/images/message/bg-img.jpg);
+    @include sp{
+      background-image: url(/images/message/bg-img.jpg);
+      background-position: center top;
+    }
+    @include pc{
+      .p-head--content{
+        padding: 0 0 0 30px;
+      }
+    }
+  }
   &::before{
     content: "";
     display: block;
