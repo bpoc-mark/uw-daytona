@@ -303,6 +303,18 @@ img {
       background-image: url(/images/greetings/sp/bg-img.jpg);
     }
   }
+  &--anniversary{
+    background-image: url(/images/anniversary/bg-img.jpg);
+    @include sp{
+      background-image: url(/images/anniversary/bg-img.jpg);
+      background-position: center top;
+    }
+    @include pc{
+      .p-head--content{
+        padding: 0 0 0 60px;
+      }
+    }
+  }
   &::before{
     content: "";
     display: block;
@@ -334,6 +346,9 @@ img {
     position: relative;
     z-index: 2;
     padding: 0 0 0 120px;
+    @include sp{
+      padding: 0;
+    }
     &--en{
       @include Franklin_Gothic(800);
       font-size: 28px;
