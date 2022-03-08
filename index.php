@@ -45,48 +45,82 @@
 			<section class="sect-2">
 				<div class="container">
 					<p class="desc">
-						2022年、株式会社デイトナは創業50周年を迎えました。<br class="pc">
-						これまでデイトナを支えてくれたすべての方に、<br class="pc">
-						そしてバイクを愛するすべての人に、感謝の気持ちをこめて。<br class="pc">
-						これからも私たちデイトナは、バイクを通じて、<br class="pc">
-						人生をより楽しく、より豊かにサポートしていきます。
+						2022年、<br class="sp">株式会社デイトナは創業50周年を迎えました。<br>
+						これまでデイトナを支えてくれたすべての方に、<br>
+						そしてバイクを愛するすべての人に、<br class="sp">感謝の気持ちをこめて。<br>
+						これからも私たちデイトナは、<br class="sp">バイクを通じて、<br class="pc">
+						人生をより楽しく、<br class="sp">より豊かにサポートしていきます。
 					</p>
 				</div>
 			</section>
 			<section class="sect-3">
 				<div class="wrapper">
-					<div class="container">
-						<h3 class="tll">デイトナ50周年を<br class="sp">みんなで祝おう！</h3>
-						<p class="desc">
-							あなたのデイトナパーツにまつわる思い出を投稿してみませんか。<br>
-							「#デイトナ50周年」をつけてSNSでシェアして、50周年をともに盛り上げましょう。
-						</p>
-						<div class="row">
-							<div class="col">
-								<h3 class="col-ttl">STEP 01</h3>
-								<p class="col-desc">ふだんお使いのSNSをお選びください。</p>
-							</div>
-							<div class="col">
-								<h3 class="col-ttl">STEP 02</h3>
-								<p class="col-desc">各SNSの投稿ルールに従って、あなたとデイトナパーツの思い出を語ってください。</p>
-							</div>
-							<div class="col">
-								<h3 class="col-ttl">STEP 03</h3>
-								<p class="col-desc">投稿にはぜひ写真・動画をつけてください。</p>
-							</div>
-							<div class="col">
-								<h3 class="col-ttl">STEP 04</h3>
-								<p class="col-desc">必ずハッシュタグ<span>「#デイトナ50周年」</span>をつけて投稿してください。</p>
+					<div class="row">
+						<div class="col">
+							<div class="content">
+								<h3>GREETING</h3>
+								<p>ご挨拶</p>
+								<a href="">read more…</a>
 							</div>
 						</div>
-						<p class="desc2">※投稿の中からデイトナ50周年サイトに掲載させていただく場合がございます。</p>
-						<div class="cta">
-							<h3 class="cta-ttl">#デイトナ50周年 の<br class="sp">投稿を見る</h3>
-							<div class="cta-row">
-								<a href="https://twitter.com/search?q=%23%E3%83%87%E3%82%A4%E3%83%88%E3%83%8A50%E5%91%A8%E5%B9%B4&src=typed_query" target="_blank">Twitter</a>
-								<a href="https://www.instagram.com/explore/tags/%E3%83%87%E3%82%A4%E3%83%88%E3%83%8A50%E5%91%A8%E5%B9%B4/?hl=ja" target="_blank">Instagram</a>
-								<a href="https://www.facebook.com/hashtag/%E3%83%87%E3%82%A4%E3%83%88%E3%83%8A50%E5%91%A8%E5%B9%B4" target="_blank">Facebook</a>
+						<div class="col">
+							<img src="/images/top/sect-3/img-1.jpg" alt="ご挨拶">
+						</div>
+					</div>
+				</div>
+				<div class="wrapper wrapper--reverse wrapper--reverse--pl50">
+					<div class="row">
+						<div class="col">
+							<div class="content">
+								<h3>50th ANNIVERSARY<br>MOVIE</h3>
+								<p>50周年記念ムービー</p>
+								<a href="">read more…</a>
 							</div>
+						</div>
+						<div class="col">
+							<img src="/images/top/sect-3/img-2.jpg" alt="ご挨拶">
+						</div>
+					</div>
+				</div>
+				<div class="wrapper wrapper--pl50">
+					<div class="row">
+						<div class="col">
+							<div class="content">
+								<h3>CONGRATULATIONS<br>MESSAGE</h3>
+								<p>デイトナと私</p>
+								<a href="">read more…</a>
+							</div>
+						</div>
+						<div class="col">
+							<img src="/images/top/sect-3/img-3.jpg" alt="デイトナと私">
+						</div>
+					</div>
+				</div>
+				<div class="wrapper wrapper--reverse  wrapper--reverse--pl50-1">
+					<div class="row">
+						<div class="col">
+							<div class="content">
+								<h3>DAYTONA<br>50th HISTORY</h3>
+								<p>ヒストリー</p>
+								<a href="">read more…</a>
+							</div>
+						</div>
+						<div class="col">
+							<img src="/images/top/sect-3/img-4.jpg" alt="ヒストリー">
+						</div>
+					</div>
+				</div>
+				<div class="wrapper">
+					<div class="row">
+						<div class="col">
+							<div class="content">
+								<h3>DAYTONA<br>50th STORY</h3>
+								<p>デイトナ50年の物語</p>
+								<a href="">read more…</a>
+							</div>
+						</div>
+						<div class="col">
+							<img src="/images/top/sect-3/img-5.jpg" alt="デイトナ50年の物語">
 						</div>
 					</div>
 				</div>

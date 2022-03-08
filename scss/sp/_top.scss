@@ -36,99 +36,61 @@
     }
   }
   .sect-2{
-    padding: 67px 0 65px;
+    padding: 42px 0 45px;
     .container{
       .desc{
-        font-weight: 700;
-        font-size: 16px;
-        line-height: 30px;
-        text-align: left;
+        font-weight: 500;
+        font-size: 14px;
+        line-height: 28px;
+        text-align: center;
       }
     }
   }
   .sect-3{
     .wrapper{
-      padding: 47px 0 50px;
-      background-color: #E96B00;
-      .container{
-        .tll{
-          font-weight: 900;
-          text-align: center;
-          font-size: 32px;
-          color: #fff;
-          line-height: 48px;
-        }
-        .desc{
-          font-weight: 700;
-          font-size: 18px;
-          color: #fff;
-          line-height: 30px;
-          text-align: left;
-          margin: 25px 0 35px;
-        }
-        .row{
-          justify-content: space-between;
-          .col{
-            position: relative;
+      position: relative;
+      background-color: #000;
+      .row{
+        .col{
+          &:first-child{
             width: 100%;
-            background-color: #fff;
-            padding: 15px 20px 25px;
-            border-radius: 5px;
-            &:not(:last-child){
-              margin: 0 0 20px;
-            }
-            .col-ttl{
+            padding: 53px 0 50px;
+          }
+          &:last-child{
+            width: 100%;
+          }
+          .content{
+            text-align: center;
+            h3{
               @include Franklin_Gothic(800);
-              font-style: italic;
               font-size: 32px;
-              color: #000;
-            }
-            .col-desc{
-              font-weight: 300;
-              font-size: 18px;
-              color: #3B4043;
-              line-height: 27px;
-              margin: 9px 0 0;
-              span{
-                font-weight: 700;
+              font-style: italic;
+              color: #fff;
+              margin: 0 0 6px;
+              @include is-max(370px){
+                font-size: 28px;
               }
             }
-          }
-        }
-        .desc2{
-          font-size: 16px;
-          font-weight: 300;
-          line-height: 24px;
-          text-align: center;
-          color: #fff;
-          margin: 10px 0 45px;
-        }
-        .cta{
-          background-color: #fff;
-          border: 1px solid #CCCCCC;
-          padding: 25px 8px 20px;
-          .cta-ttl{
-            font-weight: 700;
-            font-size: 24px;
-            text-align: center;
-            line-height: 36px;
-            margin: 0 0 20px;
-          }
-          .cta-row{
+            p{
+              font-size: 18px;
+              font-weight: 500;
+              letter-spacing: .05em;
+              color: #fff;
+              margin: 0 0 16px;
+            }
             a{
-              width: 100%;
               display: flex;
               align-items: center;
               justify-content: center;
-              height: 60px;
-              background-color: #222222;
-              font-weight: 700;
-              font-size: 24px;
-              color: #fff;
-              transition: .3s ease-in-out;
-              &:not(:last-child){
-                margin: 0 0 20px;
-              }
+              width: 164px;
+              height: 37px;
+              background-color: #fff;
+              border-radius: 50px;
+              color: #222;
+              @include Franklin_Gothic(800);
+              font-size: 18px;
+              font-style: italic;
+              margin: 0 auto
             }
           }
         }
