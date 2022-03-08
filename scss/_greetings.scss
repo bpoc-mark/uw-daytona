@@ -1,0 +1,37 @@
+/*==================================
+  Greetings
+==================================*/
+#Greetings main {
+  margin: 64px 0 0;
+  .greetings-sect{
+    padding: 90px 0 100px;
+    .container{
+      .desc{
+        font-weight: 500;
+        font-size: 18px;
+        line-height: 36px;
+        text-align: center;
+        letter-spacing: -.01em;
+      }
+      .corporation{
+        h3{
+          font-weight: 500;
+          font-size: 17px;
+          text-align: center;
+          margin: 50px 0 31px;
+        }
+        .row{
+          .col{
+            width: calc(100% / 3);
+            text-align: center;
+            p{
+              font-weight: 500;
+              font-size: 14px;
+              margin: 0 0 14px;
+            }
+          }
+        }
+      }
+    }
+  }
+}
