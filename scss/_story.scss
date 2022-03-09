@@ -165,18 +165,23 @@
               color: #E96B00;
               text-align: center;
               margin: 0 0 42px;
+              letter-spacing: -.01em;
             }
             .desc{
               font-size: 16px;
               font-weight: 500;
               line-height: 32px;
               text-align: left;
+              &.mgt-10{
+                margin: -30px 0 0;
+              }
             }
             .row{
               margin: 45px 0 0;
               justify-content: space-between;
               .col-2{
                 width: 47.5%;
+                margin: 0 0 40px;
               }
               p{
                 font-weight: 500;
@@ -190,7 +195,7 @@
       }
       .profile{
         max-width: 800px;
-        margin: 97px auto 0;
+        margin: 57px auto 0;
         background-color: #E96B00;
         padding: 0 0 0 20px;
         .row{
@@ -213,6 +218,16 @@
                   position: absolute;
                   top: 105px;
                   right: 40px;
+                }
+                &.suzuki{
+                  position: absolute;
+                  top: 55px;
+                  right: 25px;
+                  text-align: right;
+                  &.oda{
+                    line-height: 80px;
+                    top: 35px;
+                  }
                 }
               }
               .top{
@@ -241,6 +256,27 @@
                 line-height: 21px;
                 margin: 23px 0 0;
               }
+            }
+          }
+        }
+      }
+      .btn-wrap{
+        max-width: 680px;
+        margin: 0 auto;
+        display: flex;
+        justify-content: space-between;
+        a{
+          margin: 100px 0 0;
+          &:first-child{
+            &:hover{
+              &::after{
+                left: 20px;
+              }
+            }
+            &::after{
+              transform: rotate(-45deg) translate(0, -50%) scaleX(-1);
+              left: 33px;
+              right: unset;
             }
           }
         }
@@ -282,6 +318,18 @@
           top: 50%;
           right: 33px;
           transition: .3s ease;
+        }
+        &.reverse{
+          &:hover{
+            &::after{
+              left: 20px;
+            }
+          }
+          &::after{
+            transform: rotate(-45deg) translate(0, -50%) scaleX(-1);
+            left: 33px;
+            right: unset;
+          }
         }
       }
     }
