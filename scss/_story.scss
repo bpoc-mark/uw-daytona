@@ -120,5 +120,170 @@
         }
       }
     }
+    .story-lower{
+      overflow: hidden;
+      padding: 154px 0 150px;
+      .container{
+        position: relative;
+      }
+      &--item{
+        position: relative;
+        max-width: 800px;
+        margin: 0 auto;
+        &:not(:last-child){
+          margin: 0 auto 175px;
+        }
+        h2{
+          position: relative;
+          z-index: 2;
+          font-size: 48px;
+          font-weight: 700;
+          line-height: 72px;
+          text-align: center;
+          margin: 0 0 96px;
+        }
+        .year{
+          @include Franklin_Gothic(800);
+          font-size: 160px;
+          font-style: italic;
+          color: #EEEEEE;
+          position: absolute;
+          z-index: 0;
+          top: -108px;
+          right: -160px;
+          letter-spacing: -.01em;
+        }
+        .list{
+          &--item{
+            &:not(:last-child){
+              margin: 0 0 97px;
+            }
+            .ttl{
+              font-size: 30px;  
+              font-weight: 500;
+              line-height: 48px;
+              color: #E96B00;
+              text-align: center;
+              margin: 0 0 42px;
+            }
+            .desc{
+              font-size: 16px;
+              font-weight: 500;
+              line-height: 32px;
+              text-align: left;
+            }
+            .row{
+              margin: 45px 0 0;
+              justify-content: space-between;
+              .col-2{
+                width: 47.5%;
+              }
+              p{
+                font-weight: 500;
+                font-size: 12px;
+                line-height: 18px;
+                margin: 11px 0 0;
+              }
+            }
+          }
+        }
+      }
+      .profile{
+        max-width: 800px;
+        margin: 97px auto 0;
+        background-color: #E96B00;
+        padding: 0 0 0 20px;
+        .row{
+          align-items: flex-end;
+          position: relative;
+          .col{
+            position: initial;
+            &:first-child{
+              width: 63%;
+            }
+            &:last-child{
+              width: 37%;
+              padding: 25px;
+              h4{
+                @include Franklin_Gothic(800);
+                font-size: 66px;
+                font-style: italic;
+                color: #fff;
+                &.henly{
+                  position: absolute;
+                  top: 105px;
+                  right: 40px;
+                }
+              }
+              .top{
+                font-size: 13px;
+                font-weight: 500;
+                color: #fff;
+              }
+              h5{
+                display: flex;
+                align-items: center;
+                justify-content: flex-start;
+                color: #fff;
+                font-size: 13px;
+                font-weight: 500;
+                margin: 13px 0 0;
+                span{
+                  color: #fff;
+                  font-size: 18px;
+                  font-weight: 700;
+                }
+              }
+              .bottom{
+                color: #fff;
+                font-size: 14px;
+                font-weight: 300;
+                line-height: 21px;
+                margin: 23px 0 0;
+              }
+            }
+          }
+        }
+      }
+      a{
+        position: relative;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        width: 320px;
+        height: 67px;
+        margin: 100px auto 0;
+        background-color: #000;
+        border-radius: 50px;
+        @include Franklin_Gothic(800);
+        font-size: 32px;
+        color: #fff;
+        font-style: italic;
+        box-sizing: border-box;
+        &:hover{
+          background-color: #fff;
+          color: #222;
+          border: 2px solid #000;
+          &::after{
+            right: 20px;
+            border-top: 2px solid #000;
+            border-right: 2px solid #000;
+          }
+        }
+        &::after{
+          content: "";
+          display: block;
+          width: 11px;
+          height: 11px;
+          border-top: 2px solid #fff;
+          border-right: 2px solid #fff;
+          transform: rotate(45deg) translate(0, -50%);
+          position: absolute;
+          top: 50%;
+          right: 33px;
+          transition: .3s ease;
+        }
+      }
+    }
   }
 }
