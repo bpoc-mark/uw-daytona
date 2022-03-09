@@ -1,0 +1,86 @@
+/*==================================
+  Story
+==================================*/
+#Story main {
+  margin: 60px 0 0;
+  .story-sect{
+    .desc-wrap{
+      padding: 47px 20px 23px;
+      h2{
+        font-size: 20px;
+        font-weight: 700;
+        line-height: 36px;
+        margin: 0 0 18px;
+      }
+      p{
+        font-size: 14px;
+        font-weight: 500;
+        line-height: 28px;
+        text-align: left;
+      }
+    }
+    .wrapper{
+      &--item{
+        position: relative;
+        width: 100%;
+        background-color: #E96B00;
+        &:not(:last-child){
+          margin: 0 0 10px;
+        }
+        .container{
+          position: relative;
+          padding-left: 0;
+          padding-right: 0;
+          .content{
+            position: relative;
+            text-align: left;
+            padding-top: 20px;
+            padding-bottom: 30px;
+            padding-left: 20px;
+            padding-right: 20px;
+            .year{
+              @include Franklin_Gothic(800);
+              font-size: 56px;
+              font-style: italic;
+              color: #000;
+              line-height: 1;
+            }
+            .name{
+              @include Franklin_Gothic(800);
+              font-size: 60px;
+              font-style: italic;
+              color: #fff;
+              line-height: 60px;
+              margin: 0 0 21px;
+              @include is-max(360px){
+                font-size: 50px;
+              }
+            }
+            .position{
+              font-size: 18px;
+              font-weight: 500;
+              color: #fff;
+            }
+            .newpos{
+              color: #fff;
+              font-size: 18px;
+              font-weight: 500;
+              span{
+                font-weight: 900;
+                font-size: 24px;
+              }
+            }
+            a{
+              position: absolute;
+              bottom: 38px;
+              right: 20px;
+              @include is-max(360px){
+                width: 50px;
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}
