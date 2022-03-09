@@ -327,6 +327,12 @@ img {
       }
     }
   }
+  &--story{
+    background-image: url(/images/story/bg-img.jpg);
+    @include sp{
+      background-image: url(/images/story/bg-img.jpg);
+    }
+  }
   &::before{
     content: "";
     display: block;
