@@ -1,0 +1,344 @@
+/*==================================
+  History
+==================================*/
+#History main {
+  margin: 60px 0 0;
+  .history-sect{
+    padding: 45px 0 50px;
+    .container{
+      .ttl{
+        font-weight: 700;
+        font-size: 20px;
+        line-height: 36px;
+        text-align: left;
+        margin: 0 0 15px;
+      }
+      .desc{
+        font-size: 14px;
+        font-weight: 500;
+        line-height: 28px;
+        text-align: left;
+      }
+      .history-wrap{
+        position: relative;
+        .year-wrap{
+          position: relative;
+          width: 100%;
+          margin: 13px 0 0 auto;
+          padding: 41px 0 0;
+          .year-item{
+            &:not(:last-child){
+              margin: 0 0 30px !important;
+            }
+            a.sp{
+              position: relative;
+              display: flex;
+              align-items: center;
+              justify-content: center;
+              width: 100%;
+              height: 60px;
+              background-color: #222222;
+              color: #fff;
+              @include Franklin_Gothic(800);
+              font-size: 30px;
+              font-style: italic;
+              &.open{
+                &::before{
+                  transform: rotate(90deg);
+                }
+              }
+              &::before{
+                content: "";
+                display: block;
+                border-top: 11px solid transparent;
+                border-left: 15px solid #fff;
+                border-bottom: 11px solid transparent;
+                position: absolute;
+                top: 20px;
+                left: 40px;
+                transition: .3s ease;
+              }
+            }
+          }
+          .history-list{
+            display: none;
+            position: relative;
+            width: 95%;
+            margin: 30px 0 50px auto;
+            &::before{
+              content: "";
+              display: block;
+              width: 1px;
+              height: 100%;
+              background-color: #707070;
+              position: absolute;
+              top: 0;
+              left: 0;
+            }
+            .history-item{
+              position: relative;
+              &:not(:last-child){
+                margin: 0 0 22px;
+              }
+              .year{
+                position: relative;
+                display: flex;
+                justify-content: flex-start;
+                padding: 0 0 0 40px;
+                &::before{
+                  content: "";
+                  display: block;
+                  width: 21px;
+                  height: 21px;
+                  border-radius: 50px;
+                  border: 1px solid #231815;
+                  background-color: #fff;
+                  position: absolute;
+                  top: 50%;
+                  left: -11px;
+                  transform: translate(0, -50%);
+                }
+                h3{
+                  display: flex;
+                  justify-content: flex-start;
+                  align-items: center;
+                  @include Barlow();
+                  font-size: 48px;
+                  color: #717071;
+                  background-color: #fff;
+                  padding: 0 0 0 10px;
+                  span{
+                    @include Source_Han_JP(400);
+                    font-size: 18px;
+                    &::after{
+                      content: "";
+                      display: block;
+                      width: 200px;
+                      height: 1px;
+                      background-color: #231815;
+                      position: absolute;
+                      top: 50%;
+                      left: 0;
+                      z-index: -1;
+                      transform: translate(0, -50%);
+                    }
+                  }
+                }
+              }
+              .content{
+                padding: 20px 0 0 30px;
+                .row1{
+                  display: flex;
+                  justify-content: space-between;
+                  flex-wrap: wrap;
+                  &.mgb-30{
+                    margin: 0 0 30px;
+                  }
+                  &.mgt-22{
+                    margin: 22px 0 0;
+                  }
+                  .col{
+                    &:first-child{
+                      width: 100%;
+                    }
+                    &:last-child{
+                      width: 100%;
+                      padding: 15px 0 0;
+                    }
+                    &.img-mgb-15{
+                      img{
+                        &:not(:last-child){
+                          margin: 0 0 15px;
+                        }
+                      }
+                    }
+                    &.imgW80{
+                      display: flex;
+                      align-items: center;
+                      justify-content: center;
+                      img{
+                        width: 100%;
+                        margin: 0 auto;
+                      }
+                    }
+                    &.col-60{
+                      width: 100%;
+                      &--pdr-30{
+                        padding: 0;
+                      }
+                      .img-wrap5{
+                        display: flex;
+                        flex-wrap: wrap;
+                        justify-content: space-between;
+                        img{
+                           &:first-child{
+                            width: 100%;
+                          }
+                          &:last-child{
+                            width: 50%;
+                            margin: 15px auto 0;
+                          }
+                        }
+                      }
+                    }
+                    &.col-40{
+                      width: 100%;
+                      &--mgt15{
+                        margin: 15px 0 0;
+                      }
+                    }
+                    &.col-100{
+                      width: 100%;
+                      .img-wrap{
+                        img{
+                          &:first-child{
+                            width: 100%;
+                            margin: 0 0 15px 0;
+                          }
+                          &:last-child{
+                            width: 100%;
+                          }
+                        }
+                      }
+                      .img-wrap1{
+                        display: flex;
+                        align-items: flex-start;
+                        justify-content: space-between;
+                        flex-wrap: wrap;
+                        img{
+                          &:nth-child(1){
+                            width: 100%;
+                            margin: 0 0 15px;
+                          }
+                          &:nth-child(2){
+                            width: 40.8%;
+                          }
+                          &:nth-child(3){
+                            width: 56%;
+                          }
+                        }
+                      }
+                      .img-wrap2{
+                        display: flex;
+                        flex-wrap: wrap;
+                        align-items: center;
+                        img{
+                          &:nth-child(1){
+                            width: 50%;
+                            margin: 0 0 15px 50px;
+                          }
+                          &:nth-child(2){
+                            width: 100%;
+                            margin: 0 0 15px 0;
+                          }
+                          &:nth-child(3){
+                            width: 100%;
+                          }
+                        }
+                      }
+                      .img-wrap3{
+                        display: flex;
+                        flex-wrap: wrap;
+                        justify-content: space-between;
+                        img{
+                          width: 100%;
+                          &:not(:last-child){
+                            margin: 0 0 15px;
+                          }
+                        }
+                      }
+                      .img-wrap4{
+                        display: flex;
+                        flex-wrap: wrap;
+                        align-items: center;
+                        justify-content: flex-start;
+                        img{
+                          &:first-child{
+                            width: 100%;
+                            margin: 0 0 15px;
+                          }
+                          &:last-child{
+                            width: 100%;
+                          }
+                        }
+                      }
+                      .img-wrap6{
+                        display: flex;
+                        flex-wrap: wrap;
+                        align-items: flex-start;
+                        img{
+                          &:first-child{
+                            width: 45%;
+                            margin: 0 auto 15px;
+                          }
+                          &:last-child{
+                            width: 100%;
+                          }
+                        }
+                      }
+                    }
+                    &.col-50{
+                      width: 100%;
+                      &--mgt15{
+                        margin: 15px 0 0;
+                      }
+                    }
+                    img{
+                      &.border-sp{
+                        border: 1px solid #999999;
+                      }
+                    }
+                  }
+                }
+                p{
+                  font-size: 14px;
+                  line-height: 21px;
+                  &.mgt-9{
+                    margin: 9px 0 0;
+                  }
+                  &.mgb-12{
+                    margin: 0 0 10px;
+                    letter-spacing: 0;
+                  }
+                }
+                .float-left{
+                  text-align: center;
+                  margin: 15px 0 0;
+                  &.fullW{
+                    width: 50%;
+                    margin: 15px auto 0;
+                    img{
+                      width: 100%;
+                    }
+                    p{
+                      padding: 0;
+                    }
+                  }
+                  &.fullWsp{
+                    width: 50%;
+                    margin: 15px auto 0;
+                    img{
+                      width: 100%;
+                    }
+                    p{
+                      padding: 0;
+                    }
+                  }
+                  img{
+                    width: 50%;
+                  }
+                  p{
+                    text-align: left;
+                    font-size: 12px;
+                    line-height: 18px;
+                    margin: 11px 0 0;
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

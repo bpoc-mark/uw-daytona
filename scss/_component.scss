@@ -333,6 +333,12 @@ img {
       background-image: url(/images/story/bg-img.jpg);
     }
   }
+  &--history{
+    background-image: url(/images/history/bg-img.jpg);
+    @include sp{
+      background-image: url(/images/history/bg-img.jpg);
+    }
+  }
   &::before{
     content: "";
     display: block;
