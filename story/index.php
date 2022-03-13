@@ -60,7 +60,7 @@
                 <h3 class="name">Henly Abe</h3>
                 <p class="position">初代・代表取締役社長</p>
                 <p class="newpos"><span>阿部久夫</span>（現・相談役）</p>
-                <a href="/story1972/"><img src="/images/story/arrow-icon.svg" alt=""></a>
+                <a href="/story/1972/"><img src="/images/story/arrow-icon.svg" alt=""></a>
               </div>
             </div>
           </div>
@@ -74,7 +74,7 @@
                 <h3 class="name">Shinichiro<br>Suzuki</h3>
                 <p class="position">前・代表取締役社長</p>
                 <p class="newpos"><span>鈴木紳一郎</span>（現・会長）</p>
-                <a href="/story2005/"><img src="/images/story/arrow-icon.svg" alt=""></a>
+                <a href="/story/2005/"><img src="/images/story/arrow-icon.svg" alt=""></a>
               </div>
             </div>
           </div>
@@ -88,7 +88,7 @@
                 <h3 class="name">Tetsuji<br>Oda</h3>
                 <p class="position">現・代表取締役社長</p>
                 <p class="newpos"><span>織田哲司</span></p>
-                <a href="/story2016/"><img src="/images/story/arrow-icon.svg" alt=""></a>
+                <a href="/story/2016/"><img src="/images/story/arrow-icon.svg" alt=""></a>
               </div>
             </div>
           </div>

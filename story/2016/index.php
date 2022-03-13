@@ -126,7 +126,7 @@
               </div>
             </div>
           </div>
-          <a href="/story2005/" class="reverse">2005-2015</a>
+          <a href="/story/2005/" class="reverse">2005-2015</a>
         </div>
       </section>
     </main>

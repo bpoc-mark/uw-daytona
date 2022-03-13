@@ -113,8 +113,8 @@
             </div>
           </div>
          <div class="btn-wrap">
-          <a href="/story1972/">1972-2004</a>
-          <a href="/story2016/">2016-</a>
+          <a href="/story/1972/">1972-2004</a>
+          <a href="/story/2016/">2016-</a>
          </div>
         </div>
       </section>

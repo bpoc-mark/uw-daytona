@@ -171,7 +171,7 @@
               </div>
             </div>
           </div>
-          <a href="/story2005/">2005-2015</a>
+          <a href="/story/2005/">2005-2015</a>
         </div>
       </section>
     </main>
