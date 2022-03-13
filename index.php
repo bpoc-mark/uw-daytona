@@ -60,7 +60,7 @@
 							<div class="content">
 								<h3>GREETING</h3>
 								<p>ご挨拶</p>
-								<a href="">read more…</a>
+								<a href="/greetings/">read more…</a>
 							</div>
 						</div>
 						<div class="col">
@@ -74,7 +74,7 @@
 							<div class="content">
 								<h3>50th ANNIVERSARY<br>MOVIE</h3>
 								<p>50周年記念ムービー</p>
-								<a href="">read more…</a>
+								<a href="/anniversary/">read more…</a>
 							</div>
 						</div>
 						<div class="col">
@@ -88,7 +88,7 @@
 							<div class="content">
 								<h3>CONGRATULATIONS<br>MESSAGE</h3>
 								<p>デイトナと私</p>
-								<a href="">read more…</a>
+								<a href="/message/">read more…</a>
 							</div>
 						</div>
 						<div class="col">
@@ -102,7 +102,7 @@
 							<div class="content">
 								<h3>DAYTONA<br>50th HISTORY</h3>
 								<p>ヒストリー</p>
-								<a href="">read more…</a>
+								<a href="/history/">read more…</a>
 							</div>
 						</div>
 						<div class="col">
@@ -116,7 +116,7 @@
 							<div class="content">
 								<h3>DAYTONA<br>50th STORY</h3>
 								<p>デイトナ50年の物語</p>
-								<a href="">read more…</a>
+								<a href="/story/">read more…</a>
 							</div>
 						</div>
 						<div class="col">

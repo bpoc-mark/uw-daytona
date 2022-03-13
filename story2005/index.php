@@ -14,7 +14,7 @@
   <meta property="og:description" content="<?php echo DESCRIPTION ?>" />
   <meta property="og:url" content="<?php echo CANONICAL ?>" />
 
-  <title><?php echo SITE_NAME ?></title>
+  <title>デイトナ50年の物語 | <?php echo SITE_NAME ?></title>
 
   <?php include($_SERVER['DOCUMENT_ROOT'] . "/inc/header_include.php"); ?>
   <?php include($_SERVER['DOCUMENT_ROOT'] . "/inc/ga.php"); ?>
@@ -113,8 +113,8 @@
             </div>
           </div>
          <div class="btn-wrap">
-          <a href="">1972-2004</a>
-          <a href="">2016-</a>
+          <a href="/story1972/">1972-2004</a>
+          <a href="/story2016/">2016-</a>
          </div>
         </div>
       </section>

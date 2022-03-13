@@ -14,7 +14,7 @@ $str = explode('/', $url); ?>
 	</div>
 
 	<div class="logo-center pc">
-		<p><img src="/images/common/header_logo-1.svg" alt=""></p>
+		<p><a href="https://daytona50th.com/senryuu" target="_blank"><img src="/images/common/header_logo-1.svg" alt=""></a></p>
 	</div>
 
 	<div class="menu" id="menu-toggle">
@@ -31,22 +31,22 @@ $str = explode('/', $url); ?>
 				<a href="" class="nav--link"><img src="/images/common/bg-menu-logo.svg" alt=""></a>
 			</li>
 			<li class="nav--item">
-				<a href="" class="nav--link"><span class="nav--link--en">TOP</span><span class="nav--link--jp">トップページ</span></a>
+				<a href="/" class="nav--link"><span class="nav--link--en">TOP</span><span class="nav--link--jp">トップページ</span></a>
 			</li>
 			<li class="nav--item">
-				<a href="" class="nav--link"><span class="nav--link--en">GREETING</span><span class="nav--link--jp">ご挨拶</span></a>
+				<a href="/greetings/" class="nav--link"><span class="nav--link--en">GREETING</span><span class="nav--link--jp">ご挨拶</span></a>
 			</li>
 			<li class="nav--item">
-				<a href="" class="nav--link"><span class="nav--link--en">50th ANNIVERSARY<br>MOVIE</span><span class="nav--link--jp">50周年記念ムービー</span></a>
+				<a href="/anniversary/" class="nav--link"><span class="nav--link--en">50th ANNIVERSARY<br>MOVIE</span><span class="nav--link--jp">50周年記念ムービー</span></a>
 			</li>
 			<li class="nav--item">
-				<a href="" class="nav--link"><span class="nav--link--en">CONGRATULATIONS<br>MESSAGE</span><span class="nav--link--jp">デイトナと私</span></a>
+				<a href="/message/" class="nav--link"><span class="nav--link--en">CONGRATULATIONS<br>MESSAGE</span><span class="nav--link--jp">デイトナと私</span></a>
 			</li>
 			<li class="nav--item">
-				<a href="" class="nav--link"><span class="nav--link--en">DAYTONA<br>50th HISTORY</span><span class="nav--link--jp">ヒストリー</span></a>
+				<a href="/history/" class="nav--link"><span class="nav--link--en">DAYTONA<br>50th HISTORY</span><span class="nav--link--jp">ヒストリー</span></a>
 			</li>
 			<li class="nav--item">
-				<a href="" class="nav--link"><span class="nav--link--en">DAYTONA<br>50th STORY</span><span class="nav--link--jp">デイトナ50年の物語</span></a>
+				<a href="/story/" class="nav--link"><span class="nav--link--en">DAYTONA<br>50th STORY</span><span class="nav--link--jp">デイトナ50年の物語</span></a>
 			</li>
 		</ul>
 	</nav>
