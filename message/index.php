@@ -819,9 +819,11 @@
     $('.modal-click').click(function(){
       var target = $(this).attr('data-target');
       $('#'+target).addClass('modal--active');
+      $('html').addClass('no_move');
     })
     $('.modal .close').click(function(){
       $('.modal').removeClass('modal--active');
+      $('html').removeClass('no_move');
     });
   </script>
 </body>

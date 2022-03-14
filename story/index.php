@@ -81,7 +81,7 @@
           <div class="wrapper--item wrapper--item--bg3">
             <div class="container">
               <div class="img-wrap sp">
-                <img src="/images/story/img-1.jpg" alt="Tetsuji Oda">
+                <img src="/images/story/img-3.jpg" alt="Tetsuji Oda">
               </div>
               <div class="content">
                 <p class="year">2016-</p>
