@@ -30,9 +30,9 @@
 
     <main>
       <section class="p-head p-head--message">
-        <div class="p-head--wrap">s
+        <div class="p-head--wrap">
           <div class="p-head--content">
-            <h1 class="p-head--content--en">CONGRATURLATIONS<br>MESSAGE</h1>
+            <h1 class="p-head--content--en">CONGRATULATIONS<br>MESSAGE</h1>
             <p class="p-head--content--jp">デイトナと私</p>
           </div>
         </div>
