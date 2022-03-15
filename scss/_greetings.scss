@@ -24,6 +24,24 @@
           .col{
             width: calc(100% / 3);
             text-align: center;
+            &:nth-child(1){
+              img{
+                width: 196.15px;
+                margin: 0 auto;
+              }
+            }
+            &:nth-child(2){
+              img{
+                width: 214.71px;
+                margin: 0 auto;
+              }
+            }
+            &:nth-child(3){
+              img{
+                width: 204.77px;
+                margin: 0 auto;
+              }
+            }
             p{
               font-weight: 500;
               font-size: 14px;

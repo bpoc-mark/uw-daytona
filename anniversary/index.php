@@ -40,7 +40,7 @@
       <section class="anniversary-sect">
         <div class="container">
           <div class="content">
-            <h2>DAYTONA <br>KEEP GOING</h2>
+            <h2>DAYTONA <br class="sp">KEEP GOING</h2>
             <h3> 〜デイトナはずっと⾛り続ける〜</h3>
             <p>
               50年間ずっと⾛り続けてきたデイトナ。<br>
@@ -55,8 +55,17 @@
               これからもバイクを愛するライダーとともに⾛り続けます。
             </p>
           </div>
-          <div class="yt-wrap">
-            <iframe src="https://www.youtube.com/embed/DN5DXtz47VM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+          <div class="img-wrap">
+            <img src="/images/anniversary/img-1.jpg" alt="〜デイトナはずっと⾛り続ける〜">
+          </div>
+          <div class="modal-yt">
+            <div class="overlay"></div>
+            <div class="yt-wrap">
+              <span></span>
+              <div class="content">
+                <iframe src="https://www.youtube.com/embed/DN5DXtz47VM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+              </div>
+            </div>
           </div>
         </div>
       </section>
@@ -67,6 +76,20 @@
     </footer>
   </div><!-- //AllBox -->
   <?php include($_SERVER['DOCUMENT_ROOT'] . "/inc/tag/footer_tag.php"); ?>
+
+  <script>
+    $('.img-wrap').click(function(){
+      $('.modal-yt').addClass('open');
+    });
+
+    $('.modal-yt .overlay').click(function(){
+      $('.modal-yt').removeClass('open');
+    });
+
+    $('.modal-yt .yt-wrap span').click(function(){
+      $('.modal-yt').removeClass('open');
+    });
+  </script>
 </body>
 
 </html>

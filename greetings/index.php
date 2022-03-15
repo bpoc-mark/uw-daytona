@@ -59,15 +59,15 @@
             <div class="row">
               <div class="col">
                 <p>代表取締役社長</p>
-                <img src="/images/greetings/img-1.png" alt="代表取締役社長">
+                <img src="/images/greetings/img-1.jpg" alt="代表取締役社長">
               </div>
               <div class="col">
                 <p>相談役</p>
-                <img src="/images/greetings/img-2.png" alt="相談役">
+                <img src="/images/greetings/img-2.jpg" alt="相談役">
               </div>
               <div class="col">
                 <p>代表取締役会長</p>
-                <img src="/images/greetings/img-3.png" alt="代表取締役会長">
+                <img src="/images/greetings/img-3.jpg" alt="代表取締役会長">
               </div>
             </div>
           </div>

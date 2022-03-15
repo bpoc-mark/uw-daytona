@@ -14,7 +14,7 @@ $str = explode('/', $url); ?>
 	</div>
 
 	<div class="logo-center pc">
-		<p><a href="https://daytona50th.com/senryuu" target="_blank"><img src="/images/common/header_logo-1.svg" alt=""></a></p>
+		<p><a href="/"><img src="/images/common/header_logo-1.svg" alt=""></a></p>
 	</div>
 
 	<div class="menu" id="menu-toggle">
@@ -28,7 +28,7 @@ $str = explode('/', $url); ?>
 		<div class="nav--overlay"></div>
 		<ul class="nav--list">
 			<li class="nav--item">
-				<a href="https://daytona50th.com/senryuu" target="_blank" class="nav--link"><img src="/images/common/bg-menu-logo.svg" alt=""></a>
+				<a href="/" class="nav--link"><img src="/images/common/bg-menu-logo.svg" alt=""></a>
 			</li>
 			<li class="nav--item">
 				<a href="/" class="nav--link"><span class="nav--link--en">TOP</span><span class="nav--link--jp">トップページ</span></a>

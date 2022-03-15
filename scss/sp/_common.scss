@@ -165,7 +165,7 @@ header {
         color: #fff;
         &--en{
           display: block;
-          @include Franklin_Gothic(800);
+          @include Montserrat(800);
           font-size: 20px;
           font-style: italic;
           line-height: 24px;
@@ -216,7 +216,7 @@ footer {
               margin: 0 0 20px;
             }
             .col-ttl{
-              @include Franklin_Gothic(800);
+              @include Montserrat(800);
               font-style: italic;
               font-size: 24px;
               color: #000;

@@ -39,13 +39,13 @@
 		<div class="container">
 			<div class="row">
 				<div class="col">
-					<a href=""><img src="/images/common/banner-1.jpg" alt=""></a>
+					<a href="https://daytona50th.com/senryuu" target="_blank"><img src="/images/common/banner-1.jpg" alt=""></a>
 				</div>
 				<div class="col">
-					<a href=""><img src="/images/common/banner-2.jpg" alt=""></a>
+					<a href="https://www.daytona.co.jp/special/50th_daytona7star_castwheel/" target="_blank"><img src="/images/common/banner-2.jpg" alt=""></a>
 				</div>
 				<div class="col">
-					<a href=""><img src="/images/common/banner-3.jpg" alt=""></a>
+					<a href="https://www.daytona.co.jp/" target="_blank"><img src="/images/common/banner-3.jpg" alt=""></a>
 				</div>
 			</div>
 		</div>

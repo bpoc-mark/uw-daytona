@@ -39,7 +39,7 @@
               height: 60px;
               background-color: #222222;
               color: #fff;
-              @include Franklin_Gothic(800);
+              @include Montserrat(800);
               font-size: 30px;
               font-style: italic;
               &.open{
@@ -102,11 +102,15 @@
                   display: flex;
                   justify-content: flex-start;
                   align-items: center;
-                  @include Barlow();
-                  font-size: 48px;
-                  color: #717071;
                   background-color: #fff;
                   padding: 0 0 0 10px;
+                  p{
+                    @include Barlow();
+                    font-size: 48px;
+                    color: #717071;
+                    position: relative;
+                    top: -5px;
+                  }
                   span{
                     @include Source_Han_JP(400);
                     font-size: 18px;

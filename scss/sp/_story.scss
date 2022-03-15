@@ -21,6 +21,7 @@
     }
     .wrapper{
       &--item{
+        display: block;
         position: relative;
         width: 100%;
         background-color: #E96B00;
@@ -39,14 +40,14 @@
             padding-left: 20px;
             padding-right: 20px;
             .year{
-              @include Franklin_Gothic(800);
+              @include Montserrat(800);
               font-size: 56px;
               font-style: italic;
               color: #000;
               line-height: 1;
             }
             .name{
-              @include Franklin_Gothic(800);
+              @include Montserrat(800);
               font-size: 60px;
               font-style: italic;
               color: #fff;
@@ -70,7 +71,7 @@
                 font-size: 24px;
               }
             }
-            a{
+            .arrow-icon{
               position: absolute;
               bottom: 38px;
               right: 20px;
@@ -102,7 +103,7 @@
           margin: 0 0 43px;
         }
         .year{
-          @include Franklin_Gothic(800);
+          @include Montserrat(800);
           font-size: 60px;
           font-style: italic;
           color: #EEEEEE;
@@ -168,7 +169,7 @@
               width: 100%;
               padding: 30px 20px 26px;
               h4{
-                @include Franklin_Gothic(800);
+                @include Montserrat(800);
                 font-size: 60px;
                 font-style: italic;
                 color: #fff;
@@ -231,7 +232,7 @@
         margin: 50px auto 0;
         background-color: #000;
         border-radius: 50px;
-        @include Franklin_Gothic(800);
+        @include Montserrat(800);
         font-size: 32px;
         color: #fff;
         font-style: italic;

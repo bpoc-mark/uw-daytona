@@ -50,7 +50,7 @@
           </p>
         </div>
         <div class="wrapper">
-          <div class="wrapper--item wrapper--item--bg1">
+          <a href="/story/1972/" class="wrapper--item wrapper--item--bg1">
             <div class="container">
               <div class="img-wrap sp">
                 <img src="/images/story/img-1.jpg" alt="Henly Abe">
@@ -60,11 +60,11 @@
                 <h3 class="name">Henly Abe</h3>
                 <p class="position">初代・代表取締役社長</p>
                 <p class="newpos"><span>阿部久夫</span>（現・相談役）</p>
-                <a href="/story/1972/"><img src="/images/story/arrow-icon.svg" alt=""></a>
+                <span class="arrow-icon"><img src="/images/story/arrow-icon.svg" alt=""></span>
               </div>
             </div>
-          </div>
-          <div class="wrapper--item wrapper--item--bg2">
+          </a >
+          <a href="/story/2005/" class="wrapper--item wrapper--item--bg2">
             <div class="container">
               <div class="img-wrap sp">
                 <img src="/images/story/img-2.jpg" alt="Shinichiro Suzuki">
@@ -74,11 +74,11 @@
                 <h3 class="name">Shinichiro<br>Suzuki</h3>
                 <p class="position">前・代表取締役社長</p>
                 <p class="newpos"><span>鈴木紳一郎</span>（現・会長）</p>
-                <a href="/story/2005/"><img src="/images/story/arrow-icon.svg" alt=""></a>
+                <span class="arrow-icon"><img src="/images/story/arrow-icon.svg" alt=""></span>
               </div>
             </div>
-          </div>
-          <div class="wrapper--item wrapper--item--bg3">
+          </a>
+          <a href="/story/2016/" class="wrapper--item wrapper--item--bg3">
             <div class="container">
               <div class="img-wrap sp">
                 <img src="/images/story/img-3.jpg" alt="Tetsuji Oda">
@@ -88,10 +88,10 @@
                 <h3 class="name">Tetsuji<br>Oda</h3>
                 <p class="position">現・代表取締役社長</p>
                 <p class="newpos"><span>織田哲司</span></p>
-                <a href="/story/2016/"><img src="/images/story/arrow-icon.svg" alt=""></a>
+                <span class="arrow-icon"><img src="/images/story/arrow-icon.svg" alt=""></span>
               </div>
             </div>
-          </div>
+          </a>
         </div>
       </section>
     </main>

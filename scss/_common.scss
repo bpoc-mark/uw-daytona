@@ -186,7 +186,6 @@ header {
         justify-content: center;
         transform: translateX(100%);
         transition: .3s ease;
-        transition-delay: .4s;
         overflow: auto;
         -webkit-overflow-scrolling: touch; 
         padding: 100px 0 50px;
@@ -210,7 +209,7 @@ header {
         color: #fff;
         &--en{
           display: block;
-          @include Franklin_Gothic(800);
+          @include Montserrat(800);
           font-size: 20px;
           font-style: italic;
           line-height: 24px;
@@ -276,7 +275,7 @@ footer {
               }
             }
             .col-ttl{
-              @include Franklin_Gothic(800);
+              @include Montserrat(800);
               font-style: italic;
               font-size: 26px;
               color: #000;

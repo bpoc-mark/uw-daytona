@@ -9,7 +9,7 @@
       .content{
         margin: 0 0 23px;
         h2{
-          @include Franklin_Gothic(800);
+          @include Montserrat(800);
           font-size: 48px;
           font-style: italic;
           line-height: 48px;
@@ -27,18 +27,81 @@
           line-height: 28px;
         }
       }
-      .yt-wrap{
-        position: relative;
-        padding-bottom: 56.25%;
-        height: 0;
-        overflow: hidden;
-        max-width: 100%;
-        iframe{
-          position: absolute;
+      
+      .modal-yt{
+        position: fixed;
+        top: 0;
+        left: 0;
+        z-index: 1001;
+        width: 100%;
+        height: 100vh;
+        opacity: 0;
+        visibility: hidden;
+        transition: .3s ease;
+        &.open{
+          opacity: 1;
+          visibility: visible;
+        }
+        .overlay{
+          background-color: #222;
+          position: absolute; 
           top: 0;
           left: 0;
           width: 100%;
           height: 100%;
+          z-index: 900;
+        }
+        .yt-wrap{
+          position: absolute; 
+          top: 50%;
+          left: 50%;
+          transform: translate(-50%, -50%);
+          z-index: 1003;
+          width: calc(100% - 40px);
+          span{
+            width: 30px;
+            height: 30px;
+            display: block;
+            position: absolute;
+            top: -40px;
+            right: 0;
+            cursor: pointer;
+            &::before{
+              content: "";
+              display: block;
+              width: 30px;
+              height: 1px;
+              background-color: #fff;
+              position: absolute;
+              top: 15px;
+              right: 0;
+              transform: rotate(45deg);
+            }
+            &::after{
+              content: "";
+              display: block;
+              width: 30px;
+              height: 1px;
+              background-color: #fff;
+              position: absolute;
+              top: 15px;
+              right: 0;
+              transform: rotate(-45deg);
+            }
+          }
+          .content{ 
+            padding-bottom: 56.25%;
+            height: 0;
+            overflow: hidden;
+            max-width: 100%;
+            iframe{
+              position: absolute;
+              top: 0;
+              left: 0;
+              width: 100%;
+              height: 100%;
+            }
+          }
         }
       }
     }

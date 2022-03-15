@@ -46,10 +46,10 @@ $font-color: #000;
   font-style: normal;
 }
 
-@mixin Franklin_Gothic($weight: 700) {
-  font-family: franklin-gothic-atf, sans-serif;
+@mixin Montserrat($weight: 800) {
+  font-family: 'Montserrat', sans-serif;
   font-weight: $weight;
-  font-style: normal;
+  font-style: italic;
 }
 
 @mixin Barlow($weight: 700) {

@@ -294,7 +294,9 @@
           <div class="modal" id="modal01">
             <div class="modal--dialog">
               <div class="modal--content">
-                <div class="modal--content--left modal--content--left--modal01"></div>
+                <div class="modal--content--left modal--content--left--modal01">
+                  <img src="/images/message/modal/img-1.jpg" class="sp" alt="">
+                </div>
                 <div class="modal--content--right">
                   <div class="ttl">
                     <p>TEAM DAYTONA ライダー</p>
@@ -310,7 +312,9 @@
           <div class="modal" id="modal02">
             <div class="modal--dialog">
               <div class="modal--content">
-                <div class="modal--content--left modal--content--left--modal02"></div>
+                <div class="modal--content--left modal--content--left--modal02">
+                  <img src="/images/message/modal/img-2.jpg" class="sp" alt="">
+                </div>
                 <div class="modal--content--right">
                   <div class="ttl">
                     <p>モータージャーナリスト</p>
@@ -326,7 +330,9 @@
           <div class="modal" id="modal03">
             <div class="modal--dialog">
               <div class="modal--content">
-                <div class="modal--content--left modal--content--left--modal03"></div>
+                <div class="modal--content--left modal--content--left--modal03">
+                  <img src="/images/message/modal/img-3.jpg" class="sp" alt="">
+                </div>
                 <div class="modal--content--right">
                   <div class="ttl">
                     <p>モデル・タレント・レーサー</p>
@@ -352,7 +358,9 @@
           <div class="modal" id="modal04">
             <div class="modal--dialog">
               <div class="modal--content">
-                <div class="modal--content--left modal--content--left--modal04"></div>
+                <div class="modal--content--left modal--content--left--modal04">
+                  <img src="/images/message/modal/img-4.jpg" class="sp" alt="">
+                </div>
                 <div class="modal--content--right">
                   <div class="ttl">
                     <p>モーターサイクルジャーナリスト</p>
@@ -372,7 +380,9 @@
           <div class="modal" id="modal05">
             <div class="modal--dialog">
               <div class="modal--content">
-                <div class="modal--content--left modal--content--left--modal04"></div>
+                <div class="modal--content--left modal--content--left--modal04">
+                  <img src="/images/message/modal/img-4.jpg" class="sp" alt="">
+                </div>
                 <div class="modal--content--right">
                   <div class="ttl">
                     <p>株式会社 内外出版社<br>「ヤングマシン」編集長</p>
@@ -388,7 +398,9 @@
           <div class="modal" id="modal06">
             <div class="modal--dialog">
               <div class="modal--content">
-                <div class="modal--content--left modal--content--left--modal04"></div>
+                <div class="modal--content--left modal--content--left--modal04">
+                  <img src="/images/message/modal/img-4.jpg" class="sp" alt="">
+                </div>
                 <div class="modal--content--right">
                   <div class="ttl">
                     <p>株式会社 H&L PLANNING<br>「ヘリテイジ＆レジェンズ」編集長</p>
@@ -404,7 +416,9 @@
           <div class="modal" id="modal07">
             <div class="modal--dialog">
               <div class="modal--content">
-                <div class="modal--content--left modal--content--left--modal07"></div>
+                <div class="modal--content--left modal--content--left--modal07">
+                  <img src="/images/message/modal/img-7.jpg" class="sp" alt="">
+                </div>
                 <div class="modal--content--right">
                   <div class="ttl">
                     <p>株式会社 クレタ<br>コミュニケーション局 副局長</p>
@@ -431,7 +445,9 @@
           <div class="modal" id="modal08">
             <div class="modal--dialog">
               <div class="modal--content">
-                <div class="modal--content--left modal--content--left--modal04"></div>
+                <div class="modal--content--left modal--content--left--modal04">
+                  <img src="/images/message/modal/img-4.jpg" class="sp" alt="">
+                </div>
                 <div class="modal--content--right">
                   <div class="ttl">
                     <p>株式会社 三栄<br>「モトチャンプ」編集長</p>
@@ -447,7 +463,9 @@
           <div class="modal" id="modal09">
             <div class="modal--dialog">
               <div class="modal--content">
-                <div class="modal--content--left modal--content--left--modal09"></div>
+                <div class="modal--content--left modal--content--left--modal09">
+                  <img src="/images/message/modal/img-9.jpg" class="sp" alt="">
+                </div>
                 <div class="modal--content--right">
                   <div class="ttl">
                     <p>株式会社 造形社<br>「モトモト」編集長</p>
@@ -473,7 +491,9 @@
           <div class="modal" id="modal10">
             <div class="modal--dialog">
               <div class="modal--content">
-                <div class="modal--content--left modal--content--left--modal10"></div>
+                <div class="modal--content--left modal--content--left--modal10">
+                  <img src="/images/message/modal/img-10.jpg" class="sp" alt="">
+                </div>
                 <div class="modal--content--right">
                   <div class="ttl">
                     <p>モーターサイクルジャーナリスト</p>
@@ -489,7 +509,9 @@
           <div class="modal" id="modal11">
             <div class="modal--dialog">
               <div class="modal--content">
-                <div class="modal--content--left modal--content--left--modal11"></div>
+                <div class="modal--content--left modal--content--left--modal11">
+                  <img src="/images/message/modal/img-11.jpg" class="sp" alt="">
+                </div>
                 <div class="modal--content--right">
                   <div class="ttl">
                     <p>株式会社 KAHMZ 編集者</p>
@@ -511,7 +533,9 @@
           <div class="modal" id="modal12">
             <div class="modal--dialog">
               <div class="modal--content">
-                <div class="modal--content--left modal--content--left--modal12"></div>
+                <div class="modal--content--left modal--content--left--modal12">
+                  <img src="/images/message/modal/img-12.jpg" class="sp" alt="">
+                </div>
                 <div class="modal--content--right">
                   <div class="ttl">
                     <p>モトメカニック編集者</p>
@@ -533,7 +557,9 @@
           <div class="modal" id="modal13">
             <div class="modal--dialog">
               <div class="modal--content">
-                <div class="modal--content--left modal--content--left--modal13"></div>
+                <div class="modal--content--left modal--content--left--modal13">
+                  <img src="/images/message/modal/img-13.jpg" class="sp" alt="">
+                </div>
                 <div class="modal--content--right">
                   <div class="ttl">
                     <p>漫画家<br>イラストレーター</p>
@@ -557,7 +583,9 @@
           <div class="modal" id="modal14">
             <div class="modal--dialog">
               <div class="modal--content">
-                <div class="modal--content--left modal--content--left--modal04"></div>
+                <div class="modal--content--left modal--content--left--modal04">
+                  <img src="/images/message/modal/img-4.jpg" class="sp" alt="">
+                </div>
                 <div class="modal--content--right">
                   <div class="ttl">
                     <p>株式会社デイトナ<br>M&A推進部 部長</p>
@@ -578,7 +606,9 @@
           <div class="modal" id="modal15">
             <div class="modal--dialog">
               <div class="modal--content">
-                <div class="modal--content--left modal--content--left--modal04"></div>
+                <div class="modal--content--left modal--content--left--modal04">
+                  <img src="/images/message/modal/img-4.jpg" class="sp" alt="">
+                </div>
                 <div class="modal--content--right">
                   <div class="ttl">
                     <p>株式会社デイトナ<br>コンプライアンス</p>
@@ -599,7 +629,9 @@
           <div class="modal" id="modal16">
             <div class="modal--dialog">
               <div class="modal--content">
-                <div class="modal--content--left modal--content--left--modal04"></div>
+                <div class="modal--content--left modal--content--left--modal04">
+                  <img src="/images/message/modal/img-4.jpg" class="sp" alt="">
+                </div>
                 <div class="modal--content--right">
                   <div class="ttl">
                     <p>株式会社デイトナ<br>カスタマーサポート</p>
@@ -620,7 +652,9 @@
           <div class="modal" id="modal17">
             <div class="modal--dialog">
               <div class="modal--content">
-                <div class="modal--content--left modal--content--left--modal04"></div>
+                <div class="modal--content--left modal--content--left--modal04">
+                  <img src="/images/message/modal/img-4.jpg" class="sp" alt="">
+                </div>
                 <div class="modal--content--right">
                   <div class="ttl">
                     <p>株式会社デイトナ<br>GMDG GL</p>
@@ -641,7 +675,9 @@
           <div class="modal" id="modal18">
             <div class="modal--dialog">
               <div class="modal--content">
-                <div class="modal--content--left modal--content--left--modal04"></div>
+                <div class="modal--content--left modal--content--left--modal04">
+                  <img src="/images/message/modal/img-4.jpg" class="sp" alt="">
+                </div>
                 <div class="modal--content--right">
                   <div class="ttl">
                     <p>株式会社デイトナ<br>経営企画室 室長</p>
@@ -662,7 +698,9 @@
           <div class="modal" id="modal19">
             <div class="modal--dialog">
               <div class="modal--content">
-                <div class="modal--content--left modal--content--left--modal04"></div>
+                <div class="modal--content--left modal--content--left--modal04">
+                  <img src="/images/message/modal/img-4.jpg" class="sp" alt="">
+                </div>
                 <div class="modal--content--right">
                   <div class="ttl">
                     <p>株式会社デイトナ<br>プロモーション</p>
@@ -683,7 +721,9 @@
           <div class="modal" id="modal20">
             <div class="modal--dialog">
               <div class="modal--content">
-                <div class="modal--content--left modal--content--left--modal04"></div>
+                <div class="modal--content--left modal--content--left--modal04">
+                  <img src="/images/message/modal/img-4.jpg" class="sp" alt="">
+                </div>
                 <div class="modal--content--right">
                   <div class="ttl">
                     <p>株式会社デイトナ<br>プロモーション</p>
@@ -704,7 +744,9 @@
           <div class="modal" id="modal21">
             <div class="modal--dialog">
               <div class="modal--content">
-                <div class="modal--content--left modal--content--left--modal04"></div>
+                <div class="modal--content--left modal--content--left--modal04">
+                  <img src="/images/message/modal/img-4.jpg" class="sp" alt="">
+                </div>
                 <div class="modal--content--right">
                   <div class="ttl">
                     <p>株式会社デイトナ<br>経理</p>
@@ -725,7 +767,9 @@
           <div class="modal" id="modal22">
             <div class="modal--dialog">
               <div class="modal--content">
-                <div class="modal--content--left modal--content--left--modal04"></div>
+                <div class="modal--content--left modal--content--left--modal04">
+                  <img src="/images/message/modal/img-4.jpg" class="sp" alt="">
+                </div>
                 <div class="modal--content--right">
                   <div class="ttl">
                     <p>PT. DAYTONA AZIA<br>代表取締役社長</p>
@@ -746,7 +790,9 @@
           <div class="modal" id="modal23">
             <div class="modal--dialog">
               <div class="modal--content">
-                <div class="modal--content--left modal--content--left--modal04"></div>
+                <div class="modal--content--left modal--content--left--modal04">
+                  <img src="/images/message/modal/img-4.jpg" class="sp" alt="">
+                </div>
                 <div class="modal--content--right">
                   <div class="ttl">
                     <p>株式会社デイトナ<br>コンプライアンス 室長</p>
@@ -767,7 +813,9 @@
           <div class="modal" id="modal24">
             <div class="modal--dialog">
               <div class="modal--content">
-                <div class="modal--content--left modal--content--left--modal04"></div>
+                <div class="modal--content--left modal--content--left--modal04">
+                  <img src="/images/message/modal/img-4.jpg" class="sp" alt="">
+                </div>
                 <div class="modal--content--right">
                   <div class="ttl">
                     <p>株式会社デイトナ<br>管理部 部長</p>
@@ -788,7 +836,9 @@
           <div class="modal" id="modal25">
             <div class="modal--dialog">
               <div class="modal--content">
-                <div class="modal--content--left modal--content--left--modal04"></div>
+                <div class="modal--content--left modal--content--left--modal04">
+                  <img src="/images/message/modal/img-4.jpg" class="sp" alt="">
+                </div>
                 <div class="modal--content--right">
                   <div class="ttl">
                     <p>株式会社デイトナ<br>二輪事業部付</p>

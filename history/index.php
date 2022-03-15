@@ -60,7 +60,7 @@
                 <ul class="history-list">
                   <li class="history-item">
                     <div class="year">
-                      <h3>1972<span>（昭和47年）</span></h3>
+                      <h3><p>1972</p><span>（昭和47年）</span></h3>
                     </div>
                     <div class="content">
                       <div class="row1">
@@ -75,12 +75,12 @@
                   </li>
                   <li class="history-item">
                     <div class="year">
-                      <h3>1973<span>（昭和48年）</span></h3>
+                      <h3><p>1973</p><span>（昭和48年）</span></h3>
                     </div>
                   </li> 
                   <li class="history-item">
                     <div class="year">
-                      <h3>1974<span>（昭和49年）</span></h3>
+                      <h3><p>1974</p><span>（昭和49年）</span></h3>
                     </div>
                     <div class="content">
                       <div class="row1">
@@ -95,7 +95,7 @@
                   </li> 
                   <li class="history-item">
                     <div class="year">
-                      <h3>1975<span>（昭和50年）</span></h3>
+                      <h3><p>1975</p><span>（昭和50年）</span></h3>
                     </div>
                     <div class="content">
                       <div class="row1">
@@ -112,7 +112,7 @@
                   </li> 
                   <li class="history-item">
                     <div class="year">
-                      <h3>1976<span>（昭和51年）</span></h3>
+                      <h3><p>1976</p><span>（昭和51年）</span></h3>
                     </div>
                     <div class="content">
                       <div class="row1">
@@ -128,17 +128,17 @@
                   </li> 
                   <li class="history-item">
                     <div class="year">
-                      <h3>1977<span>（昭和52年）</span></h3>
+                      <h3><p>1977</p><span>（昭和52年）</span></h3>
                     </div>
                   </li> 
                   <li class="history-item">
                     <div class="year">
-                      <h3>1978<span>（昭和53年）</span></h3>
+                      <h3><p>1978</p><span>（昭和53年）</span></h3>
                     </div>
                   </li> 
                   <li class="history-item">
                     <div class="year">
-                      <h3>1979<span>（昭和54年）</span></h3>
+                      <h3><p>1979</p><span>（昭和54年）</span></h3>
                     </div>
                     <div class="content">
                       <div class="row1">
@@ -156,7 +156,7 @@
                   </li> 
                   <li class="history-item">
                     <div class="year">
-                      <h3>1980<span>（昭和55年）</span></h3>
+                      <h3><p>1980</p><span>（昭和55年）</span></h3>
                     </div>
                     <div class="content">
                       <p>アメリカンパーツの国内販売が軌道にのったため、国内マーケット向けの販売部門を創設。</p>
@@ -164,7 +164,7 @@
                   </li> 
                   <li class="history-item">
                     <div class="year">
-                      <h3>1981<span>（昭和56年）</span></h3>
+                      <h3><p>1981</p><span>（昭和56年）</span></h3>
                     </div>
                     <div class="content">
                       <p>「デイトナカタログ」創刊。<br>以後、とぎれることなく毎年発刊を続ける。</p>
@@ -180,7 +180,7 @@
                 <ul class="history-list">
                   <li class="history-item">
                     <div class="year">
-                      <h3>1982<span>（昭和57年）</span></h3>
+                      <h3><p>1982</p><span>（昭和57年）</span></h3>
                     </div>
                     <div class="content">
                       <div class="row1">
@@ -198,7 +198,7 @@
                   </li>
                   <li class="history-item">
                     <div class="year">
-                      <h3>1983<span>（昭和58年）</span></h3>
+                      <h3><p>1983</p><span>（昭和58年）</span></h3>
                     </div>
                     <div class="content">
                       <div class="row1">
@@ -216,7 +216,7 @@
                   </li>
                   <li class="history-item">
                     <div class="year">
-                      <h3>1984<span>（昭和59年）</span></h3>
+                      <h3><p>1984</p><span>（昭和59年）</span></h3>
                     </div>
                     <div class="content">
                       <div class="row1">
@@ -241,7 +241,7 @@
                   </li>
                   <li class="history-item">
                     <div class="year">
-                      <h3>1985<span>（昭和60年）</span></h3>
+                      <h3><p>1985</p><span>（昭和60年）</span></h3>
                     </div>
                     <div class="content">
                       <div class="row1">
@@ -262,7 +262,7 @@
                   </li>
                   <li class="history-item">
                     <div class="year">
-                      <h3>1986<span>（昭和61年）</span></h3>
+                      <h3><p>1986</p><span>（昭和61年）</span></h3>
                     </div>
                     <div class="content">
                       <div class="row1">
@@ -280,7 +280,7 @@
                   </li>
                   <li class="history-item">
                     <div class="year">
-                      <h3>1987<span>（昭和62年）</span></h3>
+                      <h3><p>1987</p><span>（昭和62年）</span></h3>
                     </div>
                     <div class="content">
                       <div class="row1">
@@ -301,7 +301,7 @@
                   </li>
                   <li class="history-item">
                     <div class="year">
-                      <h3>1988<span>（昭和63年）</span></h3>
+                      <h3><p>1988</p><span>（昭和63年）</span></h3>
                     </div>
                     <div class="content">
                       <div class="row1">
@@ -319,7 +319,7 @@
                   </li>
                   <li class="history-item">
                     <div class="year">
-                      <h3>1989<span>（平成元年）</span></h3>
+                      <h3><p>1989</p><span>（平成元年）</span></h3>
                     </div>
                     <div class="content">
                       <div class="row1">
@@ -340,7 +340,7 @@
                   </li>
                   <li class="history-item">
                     <div class="year">
-                      <h3>1990<span>（平成2年）</span></h3>
+                      <h3><p>1990</p><span>（平成2年）</span></h3>
                     </div>
                     <div class="content">
                       <div class="row1 mgb-30">
@@ -366,7 +366,7 @@
                   </li>
                   <li class="history-item">
                     <div class="year">
-                      <h3>1991<span>（平成3年）</span></h3>
+                      <h3><p>1991</p><span>（平成3年）</span></h3>
                     </div>
                     <div class="content">
                       <div class="row1">
@@ -392,7 +392,7 @@
                 <ul class="history-list">
                   <li class="history-item">
                     <div class="year">
-                      <h3>1992<span>（平成3年）</span></h3>
+                      <h3><p>1992</p><span>（平成3年）</span></h3>
                     </div>
                     <div class="content">
                       <div class="row1">
@@ -412,7 +412,7 @@
                   </li>
                   <li class="history-item">
                     <div class="year">
-                      <h3>1993<span>（平成4年）</span></h3>
+                      <h3><p>1993</p><span>（平成4年）</span></h3>
                     </div>
                     <div class="content">
                       <div class="row1">  
@@ -439,7 +439,7 @@
                   </li>
                   <li class="history-item">
                     <div class="year">
-                      <h3>1994<span>（平成5年）</span></h3>
+                      <h3><p>1994</p><span>（平成5年）</span></h3>
                     </div>
                     <div class="content">
                       <div class="row1">
@@ -458,7 +458,7 @@
                   </li>
                   <li class="history-item">
                     <div class="year">
-                      <h3>1995<span>（平成6年）</span></h3>
+                      <h3><p>1995</p><span>（平成6年）</span></h3>
                     </div>
                     <div class="content">
                       <div class="row1">
@@ -482,7 +482,7 @@
                   </li>
                   <li class="history-item">
                     <div class="year">
-                      <h3>1996<span>（平成7年）</span></h3>
+                      <h3><p>1996</p><span>（平成7年）</span></h3>
                     </div>
                     <div class="content">
                       <div class="row1">
@@ -501,7 +501,7 @@
                   </li>
                   <li class="history-item">
                     <div class="year">
-                      <h3>1997<span>（平成8年）</span></h3>
+                      <h3><p>1997</p><span>（平成8年）</span></h3>
                     </div>
                     <div class="content">
                       <div class="row1">
@@ -526,7 +526,7 @@
                   </li>
                   <li class="history-item">
                     <div class="year">
-                      <h3>1998<span>（平成9年）</span></h3>
+                      <h3><p>1998</p><span>（平成9年）</span></h3>
                     </div>
                     <div class="content">
                       <div class="row1">
@@ -549,7 +549,7 @@
                   </li>
                   <li class="history-item">
                     <div class="year">
-                      <h3>1999<span>（平成10年）</span></h3>
+                      <h3><p>1999</p><span>（平成10年）</span></h3>
                     </div>
                     <div class="content">
                       <div class="row1">
@@ -568,7 +568,7 @@
                   </li>
                   <li class="history-item">
                     <div class="year">
-                      <h3>2000<span>（平成11年）</span></h3>
+                      <h3><p>2000</p><span>（平成11年）</span></h3>
                     </div>
                     <div class="content">
                       <div class="row1">
@@ -587,7 +587,7 @@
                   </li>
                   <li class="history-item">
                     <div class="year">
-                      <h3>2001<span>（平成12年）</span></h3>
+                      <h3><p>2001</p><span>（平成12年）</span></h3>
                     </div>
                     <div class="content">
                       <div class="row1">
@@ -615,7 +615,7 @@
                 <ul class="history-list">
                   <li class="history-item">
                     <div class="year">
-                      <h3>2002<span>（平成14年）</span></h3>
+                      <h3><p>2002</p><span>（平成14年）</span></h3>
                     </div>
                     <div class="content">
                       <div class="row1">
@@ -647,7 +647,7 @@
                   </li>
                   <li class="history-item">
                     <div class="year">
-                      <h3>2003<span>（平成15年）</span></h3>
+                      <h3><p>2003</p><span>（平成15年）</span></h3>
                     </div>
                     <div class="content">
                       <div class="row1 mgb-30">
@@ -673,7 +673,7 @@
                   </li>
                   <li class="history-item">
                     <div class="year">
-                      <h3>2004<span>（平成16年）</span></h3>
+                      <h3><p>2004</p><span>（平成16年）</span></h3>
                     </div>
                     <div class="content">
                       <div class="row1">
@@ -694,7 +694,7 @@
                   </li>
                   <li class="history-item">
                     <div class="year">
-                      <h3>2005<span>（平成17年）</span></h3>
+                      <h3><p>2005</p><span>（平成17年）</span></h3>
                     </div>
                     <div class="content">
                       <div class="row1">
@@ -712,7 +712,7 @@
                   </li>
                   <li class="history-item">
                     <div class="year">
-                      <h3>2006<span>（平成18年）</span></h3>
+                      <h3><p>2006</p><span>（平成18年）</span></h3>
                     </div>
                     <div class="content">
                       <div class="row1 mgb-30">
@@ -743,7 +743,7 @@
                   </li>
                   <li class="history-item">
                     <div class="year">
-                      <h3>2007<span>（平成19年）</span></h3>
+                      <h3><p>2007</p><span>（平成19年）</span></h3>
                     </div>
                     <div class="content">
                       <div class="row1 mgb-30">
@@ -770,7 +770,7 @@
                   </li>
                   <li class="history-item">
                     <div class="year">
-                      <h3>2008<span>（平成20年）</span></h3>
+                      <h3><p>2008</p><span>（平成20年）</span></h3>
                     </div>
                     <div class="content">
                       <div class="row1">
@@ -788,7 +788,7 @@
                   </li>
                   <li class="history-item">
                     <div class="year">
-                      <h3>2009<span>（平成21年）</span></h3>
+                      <h3><p>2009</p><span>（平成21年）</span></h3>
                     </div>
                     <div class="content">
                       <div class="row1">
@@ -808,7 +808,7 @@
                   </li>
                   <li class="history-item">
                     <div class="year">
-                      <h3>2010<span>（平成22年）</span></h3>
+                      <h3><p>2010</p><span>（平成22年）</span></h3>
                     </div>
                     <div class="content">
                       <div class="row1">
@@ -826,7 +826,7 @@
                   </li>
                   <li class="history-item">
                     <div class="year">
-                      <h3>2011<span>（平成23年）</span></h3>
+                      <h3><p>2011</p><span>（平成23年）</span></h3>
                     </div>
                     <div class="content">
                       <div class="row1">
@@ -850,7 +850,7 @@
                 <ul class="history-list">
                   <li class="history-item">
                     <div class="year">
-                      <h3>2012<span>（平成24年）</span></h3>
+                      <h3><p>2012</p><span>（平成24年）</span></h3>
                     </div>
                     <div class="content">
                       <div class="row1">
@@ -868,7 +868,7 @@
                   </li>
                   <li class="history-item">
                     <div class="year">
-                      <h3>2013<span>（平成25年）</span></h3>
+                      <h3><p>2013</p><span>（平成25年）</span></h3>
                     </div>
                     <div class="content">
                       <p class="mgb-12">東京ビッグサイトで開催の東京モーターサイクルショーに、過去最大の18小間でブース出展。</p>
@@ -888,7 +888,7 @@
                   </li>
                   <li class="history-item">
                     <div class="year">
-                      <h3>2014<span>（平成26年）</span></h3>
+                      <h3><p>2014</p><span>（平成26年）</span></h3>
                     </div>
                     <div class="content">
                       <div class="row1">
@@ -910,7 +910,7 @@
                   </li>
                   <li class="history-item">
                     <div class="year">
-                      <h3>2015<span>（平成27年）</span></h3>
+                      <h3><p>2015</p><span>（平成27年）</span></h3>
                     </div>
                     <div class="content">
                       <div class="row1">
@@ -928,7 +928,7 @@
                   </li>
                   <li class="history-item">
                     <div class="year">
-                      <h3>2016<span>（平成27年）</span></h3>
+                      <h3><p>2016</p><span>（平成27年）</span></h3>
                     </div>
                     <div class="content">
                       <div class="row1">
@@ -946,7 +946,7 @@
                   </li>
                   <li class="history-item">
                     <div class="year">
-                      <h3>2017<span>（平成29年）</span></h3>
+                      <h3><p>2017</p><span>（平成29年）</span></h3>
                     </div>
                     <div class="content">
                       <div class="row1 mgb-30">
@@ -972,7 +972,7 @@
                   </li>
                   <li class="history-item">
                     <div class="year">
-                      <h3>2018<span>（平成30年）</span></h3>
+                      <h3><p>2018</p><span>（平成30年）</span></h3>
                     </div>
                     <div class="content">
                       <div class="row1 mgb-30">
@@ -998,7 +998,7 @@
                   </li>
                   <li class="history-item">
                     <div class="year">
-                      <h3>2019<span>（令和元年）</span></h3>
+                      <h3><p>2019</p><span>（令和元年）</span></h3>
                     </div>
                     <div class="content">
                       <div class="row1">
@@ -1016,7 +1016,7 @@
                   </li>
                   <li class="history-item">
                     <div class="year">
-                      <h3>2020<span>（令和2年）</span></h3>
+                      <h3><p>2020</p><span>（令和2年）</span></h3>
                     </div>
                     <div class="content">
                       <div class="row1">
@@ -1034,7 +1034,7 @@
                   </li>
                   <li class="history-item">
                     <div class="year">
-                      <h3>2021<span>（令和3年）</span></h3>
+                      <h3><p>2021</p><span>（令和3年）</span></h3>
                     </div>
                     <div class="content">
                       <div class="row1">
@@ -1052,7 +1052,7 @@
                   </li>
                   <li class="history-item">
                     <div class="year">
-                      <h3>2022<span>（令和4年）</span></h3>
+                      <h3><p>2022</p><span>（令和4年）</span></h3>
                     </div>
                     <div class="content">
                       <div class="row1">

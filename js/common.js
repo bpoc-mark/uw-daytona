@@ -101,7 +101,7 @@ document.addEventListener("DOMContentLoaded", function () {
 // Webfont読込
 window.WebFontConfig = {
   google: {
-    families: ['Barlow:700', 'Noto+Sans+JP:300,400,500&subset=japanese']
+    families: ['Barlow:700', 'Montserrat:800', 'Noto+Sans+JP:300,400,500&subset=japanese']
   },
   active: function () {
     sessionStorage.fonts = true;

@@ -62,7 +62,7 @@
           .content{
             text-align: center;
             h3{
-              @include Franklin_Gothic(800);
+              @include Montserrat(800);
               font-size: 32px;
               font-style: italic;
               color: #fff;
@@ -78,7 +78,7 @@
               color: #fff;
               margin: 0 0 16px;
             }
-            a{
+            span{
               display: flex;
               align-items: center;
               justify-content: center;
@@ -87,7 +87,7 @@
               background-color: #fff;
               border-radius: 50px;
               color: #222;
-              @include Franklin_Gothic(800);
+              @include Montserrat(800);
               font-size: 18px;
               font-style: italic;
               margin: 0 auto
