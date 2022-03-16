@@ -72,7 +72,7 @@
                 font-style: italic;
                 position: absolute;
                 bottom: 8px;
-                right: 4px;
+                right: 10px;
               }
             }
           }
@@ -142,35 +142,13 @@
             position: fixed;
             top: 0;
             left: 0;
-            &--modal01{
-              background-image: url(/images/message/modal/img-1.jpg);
-            }
-            &--modal02{
-              background-image: url(/images/message/modal/img-2.jpg);
-            }
-            &--modal03{
-              background-image: url(/images/message/modal/img-3.jpg);
-            }
-            &--modal04{
-              background-image: url(/images/message/img-4.jpg);
-            }
-            &--modal07{
-              background-image: url(/images/message/modal/img-7.jpg);
-            }
-            &--modal09{
-              background-image: url(/images/message/modal/img-9.jpg);
-            }
-            &--modal10{
-              background-image: url(/images/message/modal/img-10.jpg);
-            }
-            &--modal11{
-              background-image: url(/images/message/modal/img-11.jpg);
-            }
-            &--modal12{
-              background-image: url(/images/message/modal/img-12.jpg);
-            }
-            &--modal13{
-              background-image: url(/images/message/modal/img-13.jpg);
+            img{
+              position: absolute;
+              top: 0;
+              left: 0;
+              width: 100%;
+              height: 100%;
+              object-fit: cover;
             }
           }
           &--right{
@@ -207,13 +185,32 @@
               line-height: 28px;
               margin: 14px 0 0;
             }
+            ul{
+              margin: 13px 0 0;
+              li{
+                &:not(:last-child){
+                  margin: 0 0 27px;
+                }
+                h4{
+                  color: #3B4043;
+                  line-height: 28px;
+                  font-weight: 700;
+                }
+                p{
+                  margin: 0;
+                }
+              }
+            }
             .row-img{
               display: flex;
               flex-wrap: wrap;
-              justify-content: space-between;
-              margin: 15px 0 0;
+              justify-content: flex-start;
+              margin: 23px 0 0;
               img{
                 width: 32%;
+                &:not(:last-child){
+                  margin: 0 2% 0 0;
+                }
               }
             }
           }

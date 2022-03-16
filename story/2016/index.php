@@ -54,7 +54,7 @@
                   <div class="row">
                     <img src="/images/story/2016/img-1.jpg" alt="末永くバイクライフを、楽しんでもらうために。">
                   </div>
-                  <p class="desc">バイクを愛し、社長になった今でもバイク通勤する織田社長。</p>
+                  <p class="desc font12">バイクを愛し、社長になった今でもバイク通勤する織田社長。</p>
                 </li>
                 <li class="list--item">
                   <h3 class="ttl">キャンプすることで、<br class="sp">わかったことがたくさんある。</h3>

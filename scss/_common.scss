@@ -348,7 +348,11 @@ footer {
         .row{
           justify-content: space-between;
           .col{
-            width: 32%;
+            width: 49%;
+            &:first-child{
+              width: 100%;
+              margin: 0 0 25px;
+            }
             a{
               &:hover{
                 img{

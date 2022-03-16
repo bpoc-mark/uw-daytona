@@ -63,7 +63,7 @@
             <div class="yt-wrap">
               <span></span>
               <div class="content">
-                <iframe src="https://www.youtube.com/embed/DN5DXtz47VM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                <iframe id="player" src="https://www.youtube.com/embed/DN5DXtz47VM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
               </div>
             </div>
           </div>
@@ -76,7 +76,7 @@
     </footer>
   </div><!-- //AllBox -->
   <?php include($_SERVER['DOCUMENT_ROOT'] . "/inc/tag/footer_tag.php"); ?>
-
+  
   <script>
     $('.img-wrap').click(function(){
       $('.modal-yt').addClass('open');
@@ -84,11 +84,20 @@
 
     $('.modal-yt .overlay').click(function(){
       $('.modal-yt').removeClass('open');
+      $('.modal-yt .yt-wrap .content #player').each(function(index) {
+        $(this).attr('src', $(this).attr('src'));
+        return false;
+      });
     });
 
     $('.modal-yt .yt-wrap span').click(function(){
       $('.modal-yt').removeClass('open');
+      $('.modal-yt .yt-wrap .content #player').each(function(index) {
+        $(this).attr('src', $(this).attr('src'));
+        return false;
+      });
     });
+
   </script>
 </body>
 
