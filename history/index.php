@@ -47,15 +47,15 @@
             デイトナには制服がありません。自由な社風の中でバイクの楽しさの提案が生まれています。しかし、その自由は、スタッフが自らを律し、周囲への配慮を自覚することで手にしています。それは同時に、社会の秩序を乱すことのない合法的なカスタマイズに通じています。バイクを愛するがゆえ、バイクを裏切らず、自由に、まじめに、創造し挑戦する──これが、『デイトナ』の走り続けられる理由なのです。
           </p>
           <div class="year-list pc">
-            <a>1972-1981</a>
-            <a>1982-1991</a>
-            <a>1992-2001</a>
-            <a>2002-2011</a>
-            <a>2012-2022</a>
+            <a href="#1972-1981">1972-1981</a>
+            <a href="#1982-1991">1982-1991</a>
+            <a href="#1992-2001">1992-2001</a>
+            <a href="#2002-2011">2002-2011</a>
+            <a href="#2012-2022">2012-2022</a>
           </div>
           <div class="history-wrap">
             <div class="year-wrap">
-              <div class="year-item">
+              <div class="year-item" id="1972-1981">
                 <a class="sp">1972-1981</a>
                 <ul class="history-list">
                   <li class="history-item">
@@ -175,7 +175,7 @@
                   </li> 
                 </ul>
               </div>
-              <div class="year-item">
+              <div class="year-item" id="1982-1991">
                 <a class="sp">1982-1991</a>
                 <ul class="history-list">
                   <li class="history-item">
@@ -387,7 +387,7 @@
                   </li>
                 </ul>
               </div>
-              <div class="year-item">
+              <div class="year-item" id="1992-2001">
                 <a class="sp">1992-2001</a>
                 <ul class="history-list">
                   <li class="history-item">
@@ -610,7 +610,7 @@
                   </li>
                 </ul>
               </div>
-              <div class="year-item">
+              <div class="year-item" id="2002-2011">
                 <a class="sp">2002-2011</a>
                 <ul class="history-list">
                   <li class="history-item">
@@ -845,7 +845,7 @@
                   </li>
                 </ul>
               </div>
-              <div class="year-item">
+              <div class="year-item" id="2012-2022">
                 <a class="sp">2012-2022</a>
                 <ul class="history-list">
                   <li class="history-item">
