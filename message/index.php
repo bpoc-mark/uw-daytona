@@ -42,7 +42,7 @@
           <div class="row">
             <div class="col">
               <a class="modal-click" data-target="modal01">
-                <img src="/images/message/img-1.jpg" alt="">
+                <img src="/images/message/img-1.jpg" alt="宮崎 敦">
                 <div class="content pc">
                   <p>TEAM DAYTONA<br>ライダー</p>
                   <h3>宮崎 敦</h3>
@@ -52,7 +52,7 @@
             </div>
             <div class="col">
               <a class="modal-click" data-target="modal02">
-                <img src="/images/message/img-2.jpg" alt="">
+                <img src="/images/message/img-2.jpg" alt="カズ中西">
                 <div class="content pc">
                   <p>モーター<br>ジャーナリスト</p>
                   <h3>カズ中西</h3>
@@ -62,7 +62,7 @@
             </div>
             <div class="col">
               <a class="modal-click" data-target="modal03">
-                <img src="/images/message/img-3.jpg" alt="">
+                <img src="/images/message/img-3.jpg" alt="梅本まどか">
                 <div class="content pc">
                   <p>モデル・タレント<br>レーサー</p>
                   <h3>梅本まどか</h3>
@@ -72,7 +72,7 @@
             </div>
             <div class="col">
               <a class="modal-click" data-target="modal04">
-                <img src="/images/message/img-4.jpg" alt="">
+                <img src="/images/message/img-4.jpg" alt="太田 安治">
                 <div class="content pc">
                   <p>モーターサイクル<br>ジャーナリスト</p>
                   <h3>太田 安治</h3>
@@ -82,7 +82,7 @@
             </div>
             <div class="col">
               <a class="modal-click" data-target="modal05">
-                <img src="/images/message/img-5.jpg" alt="">
+                <img src="/images/message/img-5.jpg" alt="松田 大樹">
                 <div class="content pc">
                   <p>株式会社 内外出版社<br>「ヤングマシン」<br>編集長</p>
                   <h3>松田 大樹</h3>
@@ -92,7 +92,7 @@
             </div>
             <div class="col">
               <a class="modal-click" data-target="modal06">
-                <img src="/images/message/img-6.jpg" alt="">
+                <img src="/images/message/img-6.jpg" alt="月岡 洋一">
                 <div class="content pc">
                   <p>株式会社 H&L PLANNING<br>「ヘリテイジ＆レジェンズ」<br>編集長</p>
                   <h3>月岡 洋一</h3>
@@ -102,7 +102,7 @@
             </div>
             <div class="col">
               <a class="modal-click" data-target="modal07">
-                <img src="/images/message/img-7.jpg" alt="">
+                <img src="/images/message/img-7.jpg" alt="桜井 大輔">
                 <div class="content pc">
                   <p>株式会社 クレタ<br>コミュニケーション局<br>副局長</p>
                   <h3>桜井 大輔</h3>
@@ -112,7 +112,7 @@
             </div>
             <div class="col">
               <a class="modal-click" data-target="modal08">
-                <img src="/images/message/img-8.jpg" alt="">
+                <img src="/images/message/img-8.jpg" alt="山ノ井 敦司">
                 <div class="content pc">
                   <p>株式会社 造形社<br>「モトモト」<br>編集長</p>
                   <h3>山ノ井 敦司</h3>
@@ -122,7 +122,7 @@
             </div>
             <div class="col">
               <a class="modal-click" data-target="modal09">
-                <img src="/images/message/img-9.jpg" alt="">
+                <img src="/images/message/img-9.jpg" alt="埜邑 博道">
                 <div class="content pc">
                   <p>モーターサイクル<br>ジャーナリスト</p>
                   <h3>埜邑 博道</h3>
@@ -132,7 +132,7 @@
             </div>
             <div class="col">
               <a class="modal-click" data-target="modal10">
-                <img src="/images/message/img-10.jpg" alt="">
+                <img src="/images/message/img-10.jpg" alt="善田 圭二">
                 <div class="content pc">
                   <p>株式会社 KAHMZ<br>編集者</p>
                   <h3>善田 圭二</h3>
@@ -142,7 +142,7 @@
             </div>
             <div class="col">
               <a class="modal-click" data-target="modal11">
-                <img src="/images/message/img-11.jpg" alt="">
+                <img src="/images/message/img-11.jpg" alt="たぐち かつみ">
                 <div class="content pc">
                   <p>モトメカニック<br>編集者</p>
                   <h3>たぐち かつみ</h3>
@@ -152,7 +152,7 @@
             </div>
             <div class="col">
               <a class="modal-click" data-target="modal12">
-                <img src="/images/message/img-12.jpg" alt="">
+                <img src="/images/message/img-12.jpg" alt="世太郎">
                 <div class="content pc">
                   <p>漫画家<br>イラストレーター</p>
                   <h3>世太郎</h3>
@@ -162,7 +162,7 @@
             </div>
             <div class="col">
               <a class="modal-click" data-target="modal13">
-                <img src="/images/message/img-13.jpg" alt="">
+                <img src="/images/message/img-13.jpg" alt="小栗 辰弘">
                 <div class="content pc">
                   <p>ライダースサロン オグリ<br>代表</p>
                   <h3>小栗 辰弘</h3>
@@ -172,7 +172,7 @@
             </div>
             <div class="col">
               <a class="modal-click" data-target="modal14">
-                <img src="/images/message/img-14.jpg" alt="">
+                <img src="/images/message/img-14.jpg" alt="竹内 一">
                 <div class="content pc">
                   <p>株式会社デイトナ<br>M&A推進部 部長</p>
                   <h3>竹内 一</h3>
@@ -182,7 +182,7 @@
             </div>
             <div class="col">
               <a class="modal-click" data-target="modal15">
-                <img src="/images/message/img-15.jpg" alt="">
+                <img src="/images/message/img-15.jpg" alt="岩崎 秀揚">
                 <div class="content pc">
                   <p>株式会社デイトナ<br>コンプライアンス</p>
                   <h3>岩崎 秀揚</h3>
@@ -192,7 +192,7 @@
             </div>
             <div class="col">
               <a class="modal-click" data-target="modal16">
-                <img src="/images/message/img-16.jpg" alt="">
+                <img src="/images/message/img-16.jpg" alt="高橋 里枝">
                 <div class="content pc">
                   <p>株式会社デイトナ<br>カスタマーサポート</p>
                   <h3>高橋 里枝</h3>
@@ -202,7 +202,7 @@
             </div>
             <div class="col">
               <a class="modal-click" data-target="modal17">
-                <img src="/images/message/img-17.jpg" alt="">
+                <img src="/images/message/img-17.jpg" alt="木田 光彦">
                 <div class="content pc">
                   <p>株式会社デイトナ<br>経営企画室 室長</p>
                   <h3>木田 光彦</h3>
@@ -212,7 +212,7 @@
             </div>
             <div class="col">
               <a class="modal-click" data-target="modal18">
-                <img src="/images/message/img-18.jpg" alt="">
+                <img src="/images/message/img-18.jpg" alt="熊坂 多加史">
                 <div class="content pc">
                   <p>株式会社デイトナ<br>プロモーション</p>
                   <h3>熊坂 多加史</h3>
@@ -222,7 +222,7 @@
             </div>
             <div class="col">
               <a class="modal-click" data-target="modal19">
-                <img src="/images/message/img-19.jpg" alt="">
+                <img src="/images/message/img-19.jpg" alt="鈴木 清子">
                 <div class="content pc">
                   <p>株式会社デイトナ<br>プロモーション</p>
                   <h3>鈴木 清子</h3>
@@ -232,7 +232,7 @@
             </div>
             <div class="col">
               <a class="modal-click" data-target="modal20">
-                <img src="/images/message/img-20.jpg" alt="">
+                <img src="/images/message/img-20.jpg" alt="鈴木 由里子">
                 <div class="content pc">
                   <p>株式会社デイトナ<br>経理</p>
                   <h3>鈴木 由里子</h3>
@@ -242,7 +242,7 @@
             </div>
             <div class="col">
               <a class="modal-click" data-target="modal21">
-                <img src="/images/message/img-21.jpg" alt="">
+                <img src="/images/message/img-21.jpg" alt="袴田 良">
                 <div class="content pc">
                   <p>株式会社デイトナ<br>コンプライアンス室<br>室長</p>
                   <h3>袴田 良</h3>
@@ -252,7 +252,7 @@
             </div>
             <div class="col">
               <a class="modal-click" data-target="modal22">
-                <img src="/images/message/img-22.jpg" alt="">
+                <img src="/images/message/img-22.jpg" alt="杉村 靖彦">
                 <div class="content pc">
                   <p>株式会社デイトナ<br>管理部 部長</p>
                   <h3>杉村 靖彦</h3>
@@ -262,7 +262,7 @@
             </div>
             <div class="col">
               <a class="modal-click" data-target="modal23">
-                <img src="/images/message/img-23.jpg" alt="">
+                <img src="/images/message/img-23.jpg" alt="伊藤 博之">
                 <div class="content pc">
                   <p>株式会社デイトナ<br>GMDG GL</p>
                   <h3>伊藤 博之</h3>
@@ -280,7 +280,7 @@
             <div class="modal--dialog">
               <div class="modal--content">
                 <div class="modal--content--left modal--content--left--modal01">
-                  <img src="/images/message/modal/img-1.jpg" alt="">
+                  <img src="/images/message/modal/img-1.jpg" alt="宮崎 敦">
                 </div>
                 <div class="modal--content--right">
                   <div class="ttl">
@@ -309,14 +309,14 @@
                   </div>
                 </div>
               </div>
-              <span class="close"></span>
+              <span class="close"><span class="close--txt">閉じる</span><span class="close--txt">閉じる</span></span>
             </div>
           </div>
           <div class="modal" id="modal02">
             <div class="modal--dialog">
               <div class="modal--content">
                 <div class="modal--content--left modal--content--left--modal02">
-                  <img src="/images/message/modal/img-2.jpg" alt="">
+                  <img src="/images/message/modal/img-2.jpg" alt="カズ中西">
                 </div>
                 <div class="modal--content--right">
                   <div class="ttl">
@@ -345,14 +345,14 @@
                   </div>
                 </div>
               </div>
-              <span class="close"></span>
+              <span class="close"><span class="close--txt">閉じる</span></span>
             </div>
           </div>
           <div class="modal" id="modal03">
             <div class="modal--dialog">
               <div class="modal--content">
                 <div class="modal--content--left modal--content--left--modal03">
-                  <img src="/images/message/modal/img-3.jpg" alt="">
+                  <img src="/images/message/modal/img-3.jpg" alt="梅本まどか">
                 </div>
                 <div class="modal--content--right">
                   <div class="ttl">
@@ -385,14 +385,14 @@
                   </div>
                 </div>
               </div>
-              <span class="close"></span>
+              <span class="close"><span class="close--txt">閉じる</span></span>
             </div>
           </div>
           <div class="modal" id="modal04">
             <div class="modal--dialog">
               <div class="modal--content">
                 <div class="modal--content--left modal--content--left--modal04">
-                  <img src="/images/message/modal/img-4.jpg" alt="">
+                  <img src="/images/message/modal/img-4.jpg" alt="太田 安治">
                 </div>
                 <div class="modal--content--right">
                   <div class="ttl">
@@ -413,14 +413,14 @@
                   </div>
                 </div>
               </div>
-              <span class="close"></span>
+              <span class="close"><span class="close--txt">閉じる</span></span>
             </div>
           </div>
           <div class="modal" id="modal05">
             <div class="modal--dialog">
               <div class="modal--content">
                 <div class="modal--content--left modal--content--left--modal04">
-                  <img src="/images/message/modal/img-5.jpg" alt="">
+                  <img src="/images/message/modal/img-5.jpg" alt="松田 大樹">
                 </div>
                 <div class="modal--content--right">
                   <div class="ttl">
@@ -440,14 +440,14 @@
                   </div>
                 </div>
               </div>
-              <span class="close"></span>
+              <span class="close"><span class="close--txt">閉じる</span></span>
             </div>
           </div>
           <div class="modal" id="modal06">
             <div class="modal--dialog">
               <div class="modal--content">
                 <div class="modal--content--left modal--content--left--modal04">
-                  <img src="/images/message/modal/img-6.jpg" alt="">
+                  <img src="/images/message/modal/img-6.jpg" alt="月岡 洋一">
                 </div>
                 <div class="modal--content--right">
                   <div class="ttl">
@@ -465,14 +465,14 @@
                   </p>
                 </div>
               </div>
-              <span class="close"></span>
+              <span class="close"><span class="close--txt">閉じる</span></span>
             </div>
           </div>
           <div class="modal" id="modal07"> 
             <div class="modal--dialog">
               <div class="modal--content">
                 <div class="modal--content--left modal--content--left--modal07">
-                  <img src="/images/message/modal/img-7.jpg" alt="">
+                  <img src="/images/message/modal/img-7.jpg" alt="桜井 大輔">
                 </div>
                 <div class="modal--content--right">
                   <div class="ttl">
@@ -494,14 +494,14 @@
                   </div>
                 </div>
               </div>
-              <span class="close"></span>
+              <span class="close"><span class="close--txt">閉じる</span></span>
             </div>
           </div>
           <div class="modal" id="modal08">
             <div class="modal--dialog">
               <div class="modal--content">
                 <div class="modal--content--left modal--content--left--modal04">
-                  <img src="/images/message/modal/img-8.jpg" alt="">
+                  <img src="/images/message/modal/img-8.jpg" alt="成島 義人">
                 </div>
                 <div class="modal--content--right">
                   <div class="ttl">
@@ -520,14 +520,14 @@
                   </div>
                 </div>
               </div>
-              <span class="close"></span>
+              <span class="close"><span class="close--txt">閉じる</span></span>
             </div>
           </div>
           <div class="modal" id="modal09">
             <div class="modal--dialog">
               <div class="modal--content">
                 <div class="modal--content--left modal--content--left--modal09">
-                  <img src="/images/message/modal/img-9.jpg" alt="">
+                  <img src="/images/message/modal/img-9.jpg" alt="埜邑 博道">
                 </div>
                 <div class="modal--content--right">
                   <div class="ttl">
@@ -542,14 +542,14 @@
                   </div>
                 </div>
               </div>
-              <span class="close"></span>
+              <span class="close"><span class="close--txt">閉じる</span></span>
             </div>
           </div>
           <div class="modal" id="modal10">
             <div class="modal--dialog">
               <div class="modal--content">
                 <div class="modal--content--left modal--content--left--modal10">
-                  <img src="/images/message/modal/img-10.jpg" alt="">
+                  <img src="/images/message/modal/img-10.jpg" alt="善田 圭二">
                 </div>
                 <div class="modal--content--right">
                   <div class="ttl">
@@ -571,14 +571,14 @@
                   </div>
                 </div>
               </div>
-              <span class="close"></span>
+              <span class="close"><span class="close--txt">閉じる</span></span>
             </div>
           </div>
           <div class="modal" id="modal11">
             <div class="modal--dialog">
               <div class="modal--content">
                 <div class="modal--content--left modal--content--left--modal11">
-                  <img src="/images/message/modal/img-11.jpg" alt="">
+                  <img src="/images/message/modal/img-11.jpg" alt="たぐち かつみ">
                 </div>
                 <div class="modal--content--right">
                   <div class="ttl">
@@ -598,14 +598,14 @@
                   </ul>
                 </div>
               </div>
-              <span class="close"></span>
+              <span class="close"><span class="close--txt">閉じる</span></span>
             </div>
           </div>
           <div class="modal" id="modal12">
             <div class="modal--dialog">
               <div class="modal--content">
                 <div class="modal--content--left modal--content--left--modal12">
-                  <img src="/images/message/modal/img-12.jpg" alt="">
+                  <img src="/images/message/modal/img-12.jpg" alt="世太郎<">
                 </div>
                 <div class="modal--content--right">
                   <div class="ttl">
@@ -624,14 +624,14 @@
                   </div>
                 </div>
               </div>
-              <span class="close"></span>
+              <span class="close"><span class="close--txt">閉じる</span></span>
             </div>
           </div>
           <div class="modal" id="modal13">
             <div class="modal--dialog">
               <div class="modal--content">
                 <div class="modal--content--left modal--content--left--modal13">
-                  <img src="/images/message/modal/img-13.jpg" alt="">
+                  <img src="/images/message/modal/img-13.jpg" alt="小栗 辰弘">
                 </div>
                 <div class="modal--content--right">
                   <div class="ttl">
@@ -652,14 +652,14 @@
                   </p>
                 </div>
               </div>
-              <span class="close"></span>
+              <span class="close"><span class="close--txt">閉じる</span></span>
             </div>
           </div>
           <div class="modal" id="modal14">
             <div class="modal--dialog">
               <div class="modal--content">
                 <div class="modal--content--left modal--content--left--modal04">
-                  <img src="/images/message/modal/img-14.jpg" alt="">
+                  <img src="/images/message/modal/img-14.jpg" alt="竹内 一">
                 </div>
                 <div class="modal--content--right">
                   <div class="ttl">
@@ -683,14 +683,14 @@
                   </p>
                 </div>
               </div>
-              <span class="close"></span>
+              <span class="close"><span class="close--txt">閉じる</span></span>
             </div>
           </div>
           <div class="modal" id="modal15">
             <div class="modal--dialog">
               <div class="modal--content">
                 <div class="modal--content--left modal--content--left--modal04">
-                  <img src="/images/message/modal/img-15.jpg" alt="">
+                  <img src="/images/message/modal/img-15.jpg" alt="岩崎 秀揚">
                 </div>
                 <div class="modal--content--right">
                   <div class="ttl">
@@ -715,14 +715,14 @@
                   </div>
                 </div>
               </div>
-              <span class="close"></span>
+              <span class="close"><span class="close--txt">閉じる</span></span>
             </div>
           </div>
           <div class="modal" id="modal16">
             <div class="modal--dialog">
               <div class="modal--content">
                 <div class="modal--content--left modal--content--left--modal04">
-                  <img src="/images/message/modal/img-16.jpg" alt="">
+                  <img src="/images/message/modal/img-16.jpg" alt="高橋 里枝">
                 </div>
                 <div class="modal--content--right">
                   <div class="ttl">
@@ -739,14 +739,14 @@
                   </p>
                 </div>
               </div>
-              <span class="close"></span>
+              <span class="close"><span class="close--txt">閉じる</span></span>
             </div>
           </div>
           <div class="modal" id="modal17">
             <div class="modal--dialog">
               <div class="modal--content">
                 <div class="modal--content--left modal--content--left--modal04">
-                  <img src="/images/message/modal/img-17.jpg" alt="">
+                  <img src="/images/message/modal/img-17.jpg" alt="木田 光彦">
                 </div>
                 <div class="modal--content--right">
                   <div class="ttl">
@@ -761,14 +761,14 @@
                   </p>
                 </div>
               </div>
-              <span class="close"></span>
+              <span class="close"><span class="close--txt">閉じる</span></span>
             </div>
           </div>
           <div class="modal" id="modal18">
             <div class="modal--dialog">
               <div class="modal--content">
                 <div class="modal--content--left modal--content--left--modal04">
-                  <img src="/images/message/modal/img-18.jpg" alt="">
+                  <img src="/images/message/modal/img-18.jpg" alt="熊坂 多加史">
                 </div>
                 <div class="modal--content--right">
                   <div class="ttl">
@@ -789,14 +789,14 @@
                   </p>
                 </div>
               </div>
-              <span class="close"></span>
+              <span class="close"><span class="close--txt">閉じる</span></span>
             </div>
           </div>
           <div class="modal" id="modal19">
             <div class="modal--dialog">
               <div class="modal--content">
                 <div class="modal--content--left modal--content--left--modal04">
-                  <img src="/images/message/modal/img-19.jpg" alt="">
+                  <img src="/images/message/modal/img-19.jpg" alt="鈴木 清子">
                 </div>
                 <div class="modal--content--right">
                   <div class="ttl">
@@ -817,14 +817,14 @@
                   </p>
                 </div>
               </div>
-              <span class="close"></span>
+              <span class="close"><span class="close--txt">閉じる</span></span>
             </div>
           </div>
           <div class="modal" id="modal20">
             <div class="modal--dialog">
               <div class="modal--content">
                 <div class="modal--content--left modal--content--left--modal04">
-                  <img src="/images/message/modal/img-20.jpg" alt="">
+                  <img src="/images/message/modal/img-20.jpg" alt="鈴木 由里子">
                 </div>
                 <div class="modal--content--right">
                   <div class="ttl">
@@ -845,14 +845,14 @@
                   </p>
                 </div>
               </div>
-              <span class="close"></span>
+              <span class="close"><span class="close--txt">閉じる</span></span>
             </div>
           </div>
           <div class="modal" id="modal21">
             <div class="modal--dialog">
               <div class="modal--content">
                 <div class="modal--content--left modal--content--left--modal04">
-                  <img src="/images/message/modal/img-21.jpg" alt="">
+                  <img src="/images/message/modal/img-21.jpg" alt="袴田 良">
                 </div>
                 <div class="modal--content--right">
                   <div class="ttl">
@@ -873,14 +873,14 @@
                   </p>
                 </div>
               </div>
-              <span class="close"></span>
+              <span class="close"><span class="close--txt">閉じる</span></span>
             </div>
           </div>
           <div class="modal" id="modal22">
             <div class="modal--dialog">
               <div class="modal--content">
                 <div class="modal--content--left modal--content--left--modal04">
-                  <img src="/images/message/modal/img-22.jpg" alt="">
+                  <img src="/images/message/modal/img-22.jpg" alt="杉村 靖彦">
                 </div>
                 <div class="modal--content--right">
                   <div class="ttl">
@@ -900,14 +900,14 @@
                   </div>
                 </div>
               </div>
-              <span class="close"></span>
+              <span class="close"><span class="close--txt">閉じる</span></span>
             </div>
           </div>
           <div class="modal" id="modal23">
             <div class="modal--dialog">
               <div class="modal--content">
                 <div class="modal--content--left modal--content--left--modal04">
-                  <img src="/images/message/modal/img-23.jpg" alt="">
+                  <img src="/images/message/modal/img-23.jpg" alt="伊藤 博之">
                 </div>
                 <div class="modal--content--right">
                   <div class="ttl">
@@ -939,7 +939,7 @@
                   </p>
                 </div>
               </div>
-              <span class="close"></span>
+              <span class="close"><span class="close--txt">閉じる</span></span>
             </div>
           </div>
         </div>
