@@ -39,22 +39,22 @@
           overflow: auto;
           -webkit-overflow-scrolling: touch;
           .close{
-            width: 70px;
-            height: 70px;
+            width: 40px;
+            height: 40px;
             position: absolute;
-            top: 20px;
-            right: 20px;
-            border-radius: 10px;
-            border: 3px solid #999999;
+            top: 10px;
+            right: 10px;
+            border-radius: 5px;
+            border: 1.5px solid #999999;
             background-color: #fff;
             &::after{
               content: "";
               display: flex;
-              width: 40px;
+              width: 15px;
               height: 2px;
               background-color: #999999;
               position: absolute;
-              top: 25px;
+              top: 12px;
               left: 0;
               right: 0;
               margin: 0 auto;
@@ -63,11 +63,11 @@
             &::before{
               content: "";
               display: flex;
-              width: 40px;
+              width: 15px;
               height: 2px;
               background-color: #999999;
               position: absolute;
-              top: 25px;
+              top: 12px;
               left: 0;
               right: 0;
               transform: rotate(-45deg);
@@ -76,7 +76,7 @@
             &--txt{
               position: absolute;
               font-weight: 700;
-              font-size: 12px;
+              font-size: 8px;
               color: #666666;
               position: absolute;
               bottom: 5px;
