@@ -53,6 +53,22 @@
 					</p>
 				</div>
 			</section>
+			<section class="news-sect">
+				<div class="container">
+					<h3>
+						NEWS
+						<span>お知らせ</span>
+					</h3>
+					<ul class="news">
+						<li class="news--item">
+							<a href="https://daytona50th.com/senryuu/" target="_blank" class="news--content">
+								<span class="news--content--date">2022.4.26</span>
+								<p class="news--content--title">50周年記念「バイク＆カスタムあるある川柳コンテスト」結果発表。 ></p>
+							</a>
+						</li>
+					</ul>
+				</div>
+			</section>
 			<section class="sect-3">
 				<div class="wrapper">
 					<a class="row" href="/greetings/"> 
